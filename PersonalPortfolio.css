@@ -1,6 +1,6 @@
 /* Covers the page in a fixed, un-repeated background image, with a background color that resembles the image, in case the image takes some time to load */
 html{ 
- 			background: url(Media/wallpaper-back.jpg) no-repeat center center fixed;
+ 			background: url(ThirdFang.github.io/wallpaper-back.jpg) no-repeat center center fixed;
   			background-size: cover;
 			background-color: #75cb4c;
 		}
