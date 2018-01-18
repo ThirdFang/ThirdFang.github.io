@@ -1,0 +1,364 @@
+/* Covers the page in a fixed, un-repeated background image, with a background color that resembles the image, in case the image takes some time to load */
+html{ 
+ 			background: url(Media/wallpaper-back.jpg) no-repeat center center fixed;
+  			background-size: cover;
+			background-color: #75cb4c;
+		}
+
+/* Fixes Nav background to the top, with a high-priority z-index to make sure that no other content gets in the way */
+#header-wrap{
+			background: #000000; /* Black */
+			position: fixed;
+			width: 100%;
+			left: 0;
+			top: 0;
+			z-index: 9999;
+		}
+
+#header{
+			position: relative;
+		}
+		
+#header #nav{
+			list-style: none;
+			text-align: center;
+			font-size: 20px;
+		}
+
+#header #nav ul{
+			margin: 0;
+		}
+
+#header #nav li{
+			display: inline;
+		}
+
+#header #nav li a{
+			font-family: "Roboto Slab", serif;
+			text-decoration: none;
+			color: #ffffff; /* White */
+			line-height: 30px;
+			text-transform: uppercase;
+			font-weight: bold;
+		}
+
+#header #nav li a:hover{
+			color: #ffffff; /* White */
+		}
+		
+#nav #resume-link{
+			margin-right: 75px;
+		}
+
+#nav #contact-link{
+			margin-left: 75px;
+		}
+		
+#nav #about-link{
+			margin-right: 75px;
+		}
+		
+#nav #gallery-link{
+			margin-left: 75px;
+		}
+
+#pageStart{
+			padding-top: 65px;
+		}
+
+/* Opening text placement and style, complete with a transparent white background for readability */
+.openingText{
+			font-size: 24px;
+			text-	align: center;
+			margin: 25px auto;
+			padding: 10px;
+			font-family: "Roboto Slab", serif;
+			text-align: center;
+			background-color: rgba(255,255,255, 0.35); /* White, with 35% Opacity */
+			border: 2px solid black;
+			border-radius: 3px;
+		}
+
+
+.column{
+			padding-left: 12px;
+			padding-right: 12px;
+			float: left;
+		}
+
+/* Assists to differentiate main links (About, Resume, Gallery, Contact) */
+.row{
+			width:100%;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 0;
+			margin-bottom: 0;
+			max-width: 1080px;
+		}
+
+/*Style for main content, aside from the opening text*/
+.bodyText{
+			font-size: 20px;
+			padding-top: 5px;
+			font-family: "Roboto", serif;
+		}
+
+h2{
+			padding-top: 10px;
+			font-family: "Roboto Slab", serif;
+		}
+
+/* Found on bottom of page. Used to inform viewers of last update */
+.updateNote{
+			font-size: 12px;
+			text-align: right;
+			font-family: "Roboto", serif;
+		}
+
+.custom-list{
+  			padding-left: 15px;
+  			list-style-type: none;
+			font-family: "Roboto", serif;
+		}		
+
+.custom-list li{
+  			counter-increment: li;
+  			margin-bottom: 10px;
+		}
+
+/* Custome style for <ol>. Changed to feature a counter to automatically go +1 when a new <li></li> is made, 
+as well as go from traditional numbering to roman numerals */
+.custom-list li:before{
+  			content: counter(li, upper-roman);
+  			font-size: 80%;
+  			background-color: #000000;
+  			color: white;
+  			font-weight: bold;
+  			padding: 3px 8px;
+  			border-radius: 3px;
+			display: inline-block;
+			width: 20px;
+			margin-left: -24px;
+			margin-right: 8px;
+			text-align: center;
+		}
+
+/* Self explaining: Splits the <ol> into two columns, each with a fixed width, and separated with a specified gap */
+.two-columns{
+			column-count: 2;
+			column-gap: 100px;
+			column-width: 300px;
+		}
+
+#skills li{
+			font-size: 18px;
+			padding: 6px 25px;
+		}
+
+/* Helps make the links more notiecable */
+a.customLink{
+			color: #2f2fff; /* Blue type of Color */
+			text-decoration: none;
+		}
+
+a.customLink:hover{
+			color: #ffffff; /* White */
+			background-color: #000000;
+			border-radius: 3px;
+		}
+
+
+/* The next few codes were found and adopted into this CSS */
+
+
+
+/* Buzz animation for certain links. Adopted from "https://github.com/IanLunn/Hover" */
+@-webkit-keyframes hvr-buzz{
+  			50%{
+    				-webkit-transform: translateX(3px) rotate(2deg);
+   				 transform: translateX(3px) rotate(2deg);
+  			}
+  			100%{
+    				-webkit-transform: translateX(-3px) rotate(-2deg);
+   				 transform: translateX(-3px) rotate(-2deg);
+  			}
+		}
+
+@keyframes hvr-buzz{
+  			50%{
+    				-webkit-transform: translateX(3px) rotate(2deg);
+    				transform: translateX(3px) rotate(2deg);
+  			}
+  			100%{
+    				-webkit-transform: translateX(-3px) rotate(-2deg);
+    				transform: translateX(-3px) rotate(-2deg);
+  			}
+		}
+
+.hvr-buzz{
+  			display: inline-block;
+  			vertical-align: middle;
+  			-webkit-transform: perspective(1px) translateZ(0);
+  			transform: perspective(1px) translateZ(0);
+  			box-shadow: 0 0 1px transparent;
+		}
+
+.hvr-buzz:hover, .hvr-buzz:focus, .hvr-buzz:active{
+  			-webkit-animation-name: hvr-buzz;
+  			animation-name: hvr-buzz;
+  			-webkit-animation-duration: 0.15s;
+  			animation-duration: 0.15s;
+  			-webkit-animation-timing-function: linear;
+ 			 animation-timing-function: linear;
+  			-webkit-animation-iteration-count: infinite;
+  			animation-iteration-count: infinite;
+		}
+
+
+
+/* Back Pulse animation for Nav Bar links. Adopted from "https://github.com/IanLunn/Hover"  */
+@-webkit-keyframes hvr-back-pulse{
+  			50%{
+    				background-color: rgba(19,141,72, 0.45);
+  			}
+		}
+
+@keyframes hvr-back-pulse{
+  			50%{
+    				background-color: rgba(19,141,72, 0.45);
+  			}
+		}
+
+.hvr-back-pulse{
+  			display: inline-block;
+  			vertical-align: middle;
+  			-webkit-transform: perspective(1px) translateZ(0);
+  			transform: perspective(1px) translateZ(0);
+  			box-shadow: 0 0 1px transparent;
+  			overflow: hidden;
+  			-webkit-transition-duration: 0.5s;
+  			transition-duration: 0.5s;
+  			-webkit-transition-property: color, background-color;
+  			transition-property: color, background-color;
+		}
+
+.hvr-back-pulse:hover, .hvr-back-pulse:focus, .hvr-back-pulse:active{
+  			-webkit-animation-name: hvr-back-pulse;
+  			animation-name: hvr-back-pulse;
+  			-webkit-animation-duration: 1s;
+  			animation-duration: 1s;
+  			-webkit-animation-delay: 0.5s;
+ 			animation-delay: 0.5s;
+  			-webkit-animation-timing-function: linear;
+  			animation-timing-function: linear;
+  			-webkit-animation-iteration-count: infinite;
+  			animation-iteration-count: infinite;
+  			background-color: #138D48;
+  			background-color: #138D48;
+  			color: white;
+		}
+
+
+
+/*The following CSS code was helped in part by W3Schools 'How To' on slideshows*/
+
+
+*{
+		box-sizing:border-box;
+		}
+
+/* Slideshow container */
+.slideshow-container{
+  			max-width: 1000px;
+  			position: relative;
+  			margin: auto;
+		}
+
+/* Hide the images by default */
+.mySlides{
+    			display: none;
+		}
+
+/* Next & previous buttons */
+.prev, .next{
+  			cursor: pointer;
+			position: absolute;
+  			top: 50%;
+  			width: auto;
+  			margin-top: -22px;
+  			padding: 16px;
+  			color: white;
+  			font-weight: bold;
+  			font-size: 18px;
+  			transition: 0.6s ease;
+  			border-radius: 0 3px 3px 0;
+		}
+
+/* Position the "next button" to the right */
+.next{
+  			right: 0;
+  			border-radius: 3px 0 0 3px;
+		}
+
+/* On hover, add a black background color with 80% opacity*/
+.prev:hover, .next:hover{
+  			background-color: rgba(0, 0, 0, 0.8);
+		}
+
+/* Caption text, with a white background color of 50% opacity */
+.text{
+  			color: black;
+  			font-size: 20px;
+  			padding: 8px 12px;
+  			font-weight: bold;
+  			position: absolute;
+  			background-color: rgba(255, 255, 255, 0.5);
+  			bottom: 4px;
+  			width: 100%;
+  			text-align: center;
+		}
+
+/* Number text (1/5 etc) */
+.numbertext{
+  			color: #f2f2f2;
+			background-color: rgba(0, 0, 0, 0.6);
+			border-radius: 5px;
+  			font-size: 12px;
+  			padding: 8px 12px;
+  			position: absolute;
+  			top: 0;
+		}
+
+/* The dots/bullets/indicators */
+.dot{
+  			cursor: pointer;
+  			height: 15px;
+  			width: 15px;
+  			margin: 0 2px;
+  			background-color: #bbbbbb; /* Light Grey Color */
+  			border-radius: 50%;
+  			display: inline-block;
+  			transition: background-color 0.6s ease;
+		}
+
+.active, .dot:hover{
+  			background-color: #717171; /* Darker shade of Gray than above */
+		}
+
+/* Fading animation */
+.fade{
+  			-webkit-animation-name: fade;
+  			-webkit-animation-duration: 1.0s;
+  			animation-name: fade;
+  			animation-duration: 1.0s;
+		}
+
+@-webkit-keyframes fade{
+  			from {opacity: .4} 
+  			to {opacity: 1}
+		}
+
+@keyframes fade{
+  		from {opacity: .4} 
+  		to {opacity: 1}
+		}
