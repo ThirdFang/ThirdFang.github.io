@@ -202,10 +202,15 @@
 			</video>
 			<img src="ThirdFang.github.io/Dancing Stormtrooper.gif" style="transform: scale(-1,1)" width="400" height="400" title="TR-8R Dancing Meme" alt="TR-8R Dancing"><br>
 		</center>
-		
-			
 
-		<a href="#Top" id="goTop" class="customLink hvr-float">Beam Me Up, Scotty!</p>
+		<button onclick="topFunction()" class="buttonTop hvr-float-shadow" title="Go to top">Beam Me Up, Scotty</button>
+		
+		<script> <!-- Makes the 'Beam Me Up, Scotty!' button scroll to the top of page with a speed of 1300ms -->
+			$('#backToTop').click(function(){
+				$("html, body").animate({ scrollTop: 0}, 1300);
+				return false;
+			});
+		</script>
 
 	</body>
 
