@@ -286,7 +286,7 @@ a.customLink:hover{
   			transform: translateY(5px); /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
 		}
 
-/* Back Pulse animation for Nav Bar links. Adopted from "https://github.com/IanLunn/Hover"  */
+/* Back Pulse animation for Nav Bar links */
 @-webkit-keyframes hvr-back-pulse{
   			50%{
     				background-color: rgba(19,141,72, 0.45);
