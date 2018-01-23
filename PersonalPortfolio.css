@@ -167,6 +167,12 @@ a.customLink:hover{
 			border-radius: 3px;
 		}
 
+.portraitImage{
+			display: block;
+    			margin-left: auto;
+    			margin-right: auto;
+			border-radius: 65%;
+		}
 
 /* The next few codes were found and adopted into this CSS */
 
