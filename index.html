@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-		<script> <!-- Adds a smooth scrolling function to internal links -->
+		<script> <! Adds a smooth scrolling function to internal links >
 			$(document).ready(function(){
   				$("a").on('click', function(event) {
 
@@ -16,14 +16,14 @@
 						event.preventDefault();
 						var hash = this.hash;
 
-						<!-- Giving the 'Smooth Scroll' function a speed of 1300 ms to reach the link -->
+						<! Giving the 'Smooth Scroll' function a speed of 1300 ms to reach the link >
 						$('html, body').animate({
         						scrollTop: $(hash).offset().top
       					}, 1300, function(){
    
         						window.location.hash = hash;
       					});
-    				} <!-- End 'if' statement -->
+    				} <! End 'if' statement >
 				});
 			});
 		</script>
@@ -31,17 +31,16 @@
 	</head>
 
 	<body>
-
-		<a name="top"></a>
-
-		<div id="header-wrap"> <!-- Holds the Navigation Bar Style -->
-			<div id="header"> <!-- Places the Navigation Bar in the right spot -->
+		<a name="top" id="Top"></a>
+		
+		<div id="headerwrap"> <! Holds the Navigation Bar Style >
+			<div id="header"> <! Places the Navigation Bar in the right spot >
 				<div id="nav">
 					<ul>
-						<li id="about-link"><a class="hvr-back-pulse" href="#about">About</a></li>
-						<li id="resume-link"><a class="hvr-back-pulse" href="#resume">Resume</a></li>
-						<li id="gallery-link"><a class="hvr-back-pulse" href="#gallery">Gallery</a></li>
-						<li id="contact-link"><a class="hvr-back-pulse" href="#contact">Contact</a></li>
+						<li id="aboutlink"><a class="hvrbackpulse" href="#about">About</a></li>
+						<li id="resumelink"><a class="hvrbackpulse" href="#resume">Resume</a></li>
+						<li id="gallerylink"><a class="hvrbackpulse" href="#gallery">Gallery</a></li>
+						<li id="contactlink"><a class="hvrbackpulse" href="#contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -49,30 +48,31 @@
 
 		<div class="row">
 			<div id="pageStart" class="column">
-			<!-- Add a picture of yourself here -->
-
-				<p class="openingText">Hello, and welcome to my personal portfolio. My name is Cary Vailes, and as of now, I'm an amateur Programmer and Web Developer, striving to improve my skills to a professional level. My dream for the future, I would like study and earn a degree in game design and/or computer animation, and fulfill my life-long dream of becoming an animator in the video game industry. Pleased to meet you!</p>
+				
+				<img src="ThirdFang.github.io/Cary_Vailes.jpg" class="portraitImage">
+					
+				<p class="openingText">Hello, and welcome to my personal portfolio. My name is Cary Vailes, and as of now, I'm an amateur Programmer and Web Developer. My dream for the future, aside from improving my current set of skills to a professional level, is to one day study and earn a degree in game design, and enter the game industry as an animator. Pleased to meet you!</p>
 			</div>
 
 			<div id="about" class="column">
 				<h2>A Little About Myself</h2>
-				<p class="bodyText">Since graduating from Penn State Wilkes-Barre, earning my Bachelor of Science in <abbr title="Information Science & Technology">IST</abbr>, I've begun the process of gaining experience with my degree in the working environment. Currently, I deal mostly with Java and <abbr title="Hypertext Markup Language">HTML</abbr>/<abbr title="Cascading Style Sheet">CSS</abbr> languages. This site here is my first major attempt at producing a web page without assistance from a service. (Not going to count my projects from Penn State, which I'm still debating if I should release those to the general public. I'll embarrass myself later when I know my current skill is beyond what it was then.)</p>
+				<p class="bodyText">Since graduating from Penn State WilkesBarre with my Bachelor of Science degree in <abbr title="Information Science & Technology">IST</abbr>, I've begun the process of gaining experience in the working environment. Currently, I have intermediate knowledge of <abbr title="Hypertext Markup Language">HTML</abbr>/<abbr title="Cascading Style Sheet">CSS</abbr> languages, and a basic understanding of Java. This site here is my first major attempt at producing a web page without assistance from a service (Not going to count my final project from Penn State, which you can view and have a big laugh <a class="customLink hvrbuzz" href="http://www.personal.psu.edu/clv5117/Home.html" target="_blank">here</a>. Maybe one day I'll update it, and make it pleasant to look at).</p>
 
-				<p class="bodyText">Aside from what I do now, I want to eventually get into the game industry. That was decided way back when I was 9 years old, where I received my first gaming console and video game on my birthday. After devoting 70+ hours into it, exploring every possibility I could think of, I came to the decision that I wanted to be able to create something like that, where others could enjoy my creation. It wasn't until high school that I had a direction to take my dream into: animation. My goal, when I feel I have grown competent in my current field, is to go back to school to study game design and animation, earning a degree in that field.</p>
+				<p class="bodyText">As I mentioned before, I want to eventually get into the game industry. That fascination was established way back when I was 9 years old, where I received my first gaming console and video game on my birthday. After devoting 70+ hours into it, exploring every possibility I could think of, I wanted to design games (I didn't know how to, but damn sure was gonna figure it out...right after I finish this level). It wasn't until high school that I had a direction to take my dream into: animation. My goal, when I feel I have grown competent in my current field, is to go back to school to study game design and animation, earning a degree in that field.</p>
 
-				<p class="bodyText">When I'm not working or studying, I'm pretty laid back. Most of my free time is spent either on the PS4, where you can see me playing both current and older titles, making and assembling handles for knives, creating car decals through Media on the internet, and messing around with my cat CC (Crazy Cat/Cary's Cat, depending who you ask).</p>
-			</div> <!-- End Class -->
+				<p class="bodyText">When I'm not working, studying, dreaming, or scheming,  I'm pretty much chilling and loafing about. Most of my free time is spent either playing on the PS4 (love it or hate it, you have to admit it has some of the better exclusive games), making and assembling handles for knives, creating car decals through media on the internet (specializing in video games, anime, and internet memes), and messing around with my cat CC (Crazy Cat/Cary's Cat, depending who you ask).</p>
+			</div> <! End Class >
 
 			<div id="resume" class="column">
 				<h2>My Braggable Abilities</h2>
-				<p class="bodyText">Here you will find a condensed list of skills I find worthy of mentioning. You can find my full resume <a class="customLink hvr-buzz" href="Media/Cary Vailes Resume.pdf" target="_blank" title="Resume Found Here">here.</a></p>
-				<ol id="skills" class="custom-list two-columns">
+				<p class="bodyText">Here you will find a condensed list of skills I find worthy of mentioning. You can find my full resume <a class="customLink hvrbuzz" href="ThirdFang.github.io/Cary Vailes Resume.pdf" target="_blank" title="Resume Found Here">here</a>.</p>
+				<ol id="skills" class="customlist twocolumns">
  					<li>Beginner level skill in Java</li>
- 					<li>Beginner-Intermediate skill in HTML/CSS</li>
+ 					<li>BeginnerIntermediate skill in HTML/CSS</li>
  					<li>Knowledge of using <abbr title="Structured Query Language">SQL</abbr></li>
- 					<li>Experienced in using Web Develeopment Services</li>
- 					<li>Upper-level mathmatical skill</li>
- 					<li>Average-Above average writing skill</li>
+ 					<li>Experienced in using Web Development Services</li>
+ 					<li>Upperlevel mathematical skill</li>
+ 					<li>AverageAbove average writing skill</li>
  					<li>Extremely attentive to detail</li>
  					<li>Can work either independently or with others</li>
  					<li>Able to adapt to most work settings and rules</li>
@@ -84,61 +84,60 @@
 				<h2>Who Doesn't Like Pictures?</h2>
 				<p class="bodyText">Seriously, who doesn't like pictures? Here, you can see moments in my past...at least as far as after high school, anyway. In the future, as I continue to use and develop my skills, this will be replaced with works I've developed or assisted in. For now, enjoy the glory that is me!</p>
 
-				<!-- Slideshow container -->
-				<div class="slideshow-container">
+				<div class="slideshowcontainer">
 
-  					<!-- Full-width Media with number and caption text -->
+  					<! Fullwidth Media with number and caption text, complete with fade animation >
   					<div class="mySlides fade">
     						<div class="numbertext">1 / 7</div>
-    						<img src="Media/Blue & White Parade.jpg" style="width: 100%">
+    						<img src="ThirdFang.github.io/Blue & White Parade.jpg" style="width: 100%">
     						<div class="text">2016's Homecoming Parade. All of us together as the Button People.</div>
   					</div>
 
   					<div class="mySlides fade">
     						<div class="numbertext">2 / 7</div>
-    						<img src="Media/IST 2017 Class.jpg" style="width: 100%">
+    						<img src="ThirdFang.github.io/IST 2017 Class.JPG" style="width: 100%">
     						<div class="text">Graduating IST Class of 2017. The biggest bunch of goobers I've ever met.</div>
 					</div>
 
 					<div class="mySlides fade">
 						<div class="numbertext">3 / 7</div>
-						<img src="Media/Family1.jpg" style="width: 100%">
+						<img src="ThirdFang.github.io/Family1.jpg" style="width: 100%">
 						<div class="text">The three siblings altogether in one place...for once.</div>
   					</div>
 
 					<div class="mySlides fade">
 						<div class="numbertext">4 / 7</div>
-						<img src="Media/PSUWB Hawaii.jpg" style="width: 100%">
-						<div class="text">Penn State Wilkes-Barre Honors trip to Hawaii. Best Spring Break trip I've ever been on so far.</div>
+						<img src="ThirdFang.github.io/PSUWB Hawaii.jpg" style="width: 100%">
+						<div class="text">Penn State WilkesBarre Honors trip to Hawaii. Best Spring Break/Study trip I've ever been on so far.</div>
 					</div>
-
+					
 					<div class="mySlides fade">
 						<div class="numbertext">5 / 7</div>
-						<img src="Media/Cat.jpg" style="width: 100%">
-						<div class="text">Look at this smug cat! All snug in her chair, complete with tongue blep.</div>
+						<img src="ThirdFang.github.io/A Hawaiian Adventure.jpg" style="width: 100%">
+						<div class="text">Of course we couldn't leave the observatory without at least one silly photo.</div>
 					</div>
 
 					<div class="mySlides fade">
 						<div class="numbertext">6 / 7</div>
-						<img src="Media/Graduation.jpg" style="width: 100%">
-						<div class="text">A graduate at last! Took you long enough, though...</div>
+						<img src="ThirdFang.github.io/Cat.jpg" style="width: 100%">
+						<div class="text">Look at this smug cat! All snug in her chair, complete with tongue blep.</div>
 					</div>
 
 					<div class="mySlides fade">
 						<div class="numbertext">7 / 7</div>
-						<img src="Media/A Hawaiian Adventure.jpg" style="width: 100%">
-						<div class="text">Of course we couldn't leave the observatory without at least one silly photo</div>
+						<img src="ThirdFang.github.io/Graduation.jpg" style="width: 100%">
+						<div class="text">A graduate at last! Took you long enough, though...</div>
 					</div>
 
-					<!-- Next and previous buttons -->
-					<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+					<! Next and previous buttons >
+					<a class="prev" onclick="plusSlides(1)">&#10094;</a>
 					<a class="next" onclick="plusSlides(1)">&#10095;</a>
 					</div>
 
-				<br> <!-- link break for the dots -->
+				<br> <! link break for the dots >
 
-				<!-- The dots/circles -->
-				<div style="text-align:center">
+				<! The dots/circles >
+				<div style="textalign:center">
 					<span class="dot" onclick="currentSlide(1)"></span> 
 					<span class="dot" onclick="currentSlide(2)"></span> 
 					<span class="dot" onclick="currentSlide(3)"></span> 
@@ -147,8 +146,8 @@
 					<span class="dot" onClick="currentSlide(6)"></span>
 					<span class="dot" onClick="currentSlide(7)"></span>
 				</div>
-
-				<script>
+ 
+				<script> 
 					var slideIndex = 1;
 					showSlides(slideIndex);
 
@@ -181,8 +180,8 @@
       						dots[i].className = dots[i].className.replace(" active", "");
   						}
   				
-						slides[slideIndex-1].style.display = "block";  
-  						dots[slideIndex-1].className += " active";
+						slides[slideIndex1].style.display = "block";  
+  						dots[slideIndex1].className += " active";
 					}
 				</script>
 
@@ -190,30 +189,28 @@
 
 			<div id="contact" class="column">
 				<h2>Get In Touch With me</h2>
-				<p class="bodyText">As with everything, we have reached the end. If you managed to get this far, congratulations! You didn't get fed up with me...meaning I didn't try hard enough (my mistake, I'll try harder next time). Anyway, feel free to pass along any questions, comments, concerns, complaints, frustrations, irritations, aggravations, insinuations, allegations, accusations, contemplations, consternations, and inputs at <a class="email customLink hvr-buzz" href="mailto:caryvailes@hotmail.com?subject=Comment From Website">caryvailes@hotmail.com</a>. Or...you know...just say hi. In the meantime, enjoy the gift of TR-8R, the 'dancing' stormtrooper.</p>
-
+				<p class="bodyText">As with everything, we have reached the end. If you managed to get this far, congratulations! You didn't get fed up with me...meaning I didn't try hard enough (I'll try harder next time. This is your only warning for any future involvements with me). Anyway, feel free to share any questions, comments, concerns, complaints, frustrations, irritations, aggravations, insinuations, allegations, accusations, contemplations, consternations, and inputs at <a class="email customLink hvrbuzz" href="mailto:caryvailes@hotmail.com?subject=Comment(s) For Your Website">caryvailes@hotmail.com</a>. Or...you know...just say hi. As an added bonus, here's a video for your enjoyment, free of charge.</p>
 			</div>
+		
 		</div>
-
-			<center>
-			<img src="Media/Dancing Stormtrooper.gif" style="transform: scale(1,1)" width="400" height="400" title="TR-8R Dancing Meme" alt="TR-8R Dancing">
-			<video width="600" controls controlsList="nodownload" oncontextmenu="return false"> <!-- Makes it so that viewers can't download the video from either the video player or the context menu --> 
-				<source src="Media/TR-8R Meme.mp4" source"video/mp4">
+			
+		<center>
+			<img src="ThirdFang.github.io/Dancing Stormtrooper.gif" style="transform: scale(1,1)" width="400" height="400" title="TR8R Dancing Meme" alt="TR8R Dancing">
+			<video width="600" controls controlsList="nodownload" oncontextmenu="return false"> <! Makes it so that viewers can't download the video from either the video player or the context menu >
+				<source src="ThirdFang.github.io/TR8R Meme.mp4" source"video/mp4">
 			</video>
-			<img src="Media/Dancing Stormtrooper.gif" style="transform: scale(-1,1)" width="400" height="400" title="TR-8R Dancing Meme" alt="TR-8R Dancing"><br>
+			<img src="ThirdFang.github.io/Dancing Stormtrooper.gif" style="transform: scale(1,1)" width="400" height="400" title="TR8R Dancing Meme" alt="TR8R Dancing"><br>
 		</center>
+
+		<button onclick="topFunction()" class="buttonTop hvrfloatshadow" id="backToTop" "title="Go to Top">Beam Me Up, Scotty!</button>
 		
-		<button onclick="topFunction()" id="backToTop" class="buttonTop hvr-float" title="Go to top">Beam Me Up, Scotty!</button>
-		
-		<script>
+		<script> <! Makes the 'Beam Me Up, Scotty!' button scroll to the top of page with a speed of 1300ms >
 			$('#backToTop').click(function(){
 				$("html, body").animate({ scrollTop: 0}, 1300);
 				return false;
 			});
 		</script>
 
-	</div>
-	
 	</body>
 
 </html>
