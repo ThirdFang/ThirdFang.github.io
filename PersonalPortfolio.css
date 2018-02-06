@@ -1,6 +1,6 @@
 /* Covers the page in a fixed, un-repeated background image, with a background color that resembles the image, in case the image takes some time to load */
 html{ 
- 			background: url(Media/wallpaper-back.jpg) no-repeat center center fixed;
+ 			background: url(ThirdFang.github.io/wallpaper-back.jpg) no-repeat center center fixed;
   			background-size: cover;
 			background-color: #75cb4c;
 		}
@@ -22,7 +22,7 @@ html{
 #header #nav{
 			list-style: none;
 			text-align: center;
-			font-size: 30px;
+			font-size: 26px;
 		}
 
 #header #nav ul{
@@ -148,6 +148,23 @@ as well as go from traditional numbering to roman numerals */
 			padding: 6px 25px;
 		}
 
+/* Helps make the links more notiecable */
+a.customLink{
+			color: #2f2fff; /* Blue type of Color */
+			text-decoration: none;
+		}
+
+a.customLink:hover{
+			color: #ffffff; /* White */
+			background-color: #000000;
+			border-radius: 3px;
+		}
+
+.portraitImage{
+			display: block;
+    			margin-left: auto;
+    			margin-right: auto;
+			border-radius: 65%;
 		}
 
 /* Custom design for the 'Beam Me Up, Scotty' button */
@@ -167,6 +184,7 @@ as well as go from traditional numbering to roman numerals */
     			cursor: pointer;
 		}
 
+/* Changes the button when hovering on the button */
 .buttonTop:hover{
 			background: radial-gradient(#46467D, #00003C);
     			border: solid;
@@ -182,13 +200,8 @@ as well as go from traditional numbering to roman numerals */
     			margin: 4px 2px;
     			cursor: pointer;
 		}
-				
 
-/* The next few codes were found and adopted into this CSS */
-
-
-
-/* Buzz animation for certain links. Adopted from "https://github.com/IanLunn/Hover" */
+/* Buzz animation for certain links */
 @-webkit-keyframes hvr-buzz{
   			50%{
     				-webkit-transform: translateX(3px) rotate(2deg);
@@ -229,6 +242,7 @@ as well as go from traditional numbering to roman numerals */
   			animation-iteration-count: infinite;
 		}
 
+/* Makes the link hover a couple of pixels up, and gives it a transparent shadow */
 .hvr-float-shadow {
   			display: inline-block;
   			vertical-align: middle;
@@ -271,7 +285,7 @@ as well as go from traditional numbering to roman numerals */
   			transform: translateY(5px); /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
 		}
 
-/* Back Pulse animation for Nav Bar links. Adopted from "https://github.com/IanLunn/Hover"  */
+/* Back Pulse animation for Nav Bar links */
 @-webkit-keyframes hvr-back-pulse{
   			50%{
     				background-color: rgba(19,141,72, 0.45);
@@ -312,8 +326,6 @@ as well as go from traditional numbering to roman numerals */
   			background-color: #138D48;
   			color: white;
 		}
-
-
 
 /*The following CSS code was helped in part by W3Schools 'How To' on slideshows*/
 
