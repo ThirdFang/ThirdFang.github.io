@@ -1,178 +1,147 @@
-/* Covers the page in a fixed, un-repeated background image, with a background color that resembles the image, in case the image takes some time to load */
 html{ 
- 			background: url(ThirdFang.github.io/wallpaper-back.jpg) no-repeat center center fixed;
-  			background-size: cover;
-			background-color: #75cb4c;
+ 			background: url(Media/wallpaper-back.jpg) no-repeat center fixed; /* Causes the image to be centered on the window, fixed (does not move when scrolling), and doesn't repeat itself when it reaches its size properties */
+  			background-size: cover; /* Makes the background cover the entire window (scales the image if the window is minimized or changed in some way) */
+			-webkit-background-size: cover;
+			background-color: #75cb4c; /* Should the image not load/take too long to load, a green color that closely resembles the image will take its place, so as not to be white, or to help blend in the image seamlessly when it does load */
 		}
 
-/* Fixes Nav background to the top, with a high-priority z-index to make sure that no other content gets in the way */
-#header-wrap{
-			background: #000000; /* Black */
-			position: fixed;
-			width: 100%;
-			left: 0;
-			top: 0;
-			z-index: 9999;
+/* Fixed sidenav, set to cover the full height of the window */
+.sidenav{
+    			height: 100%;
+			width: 225px;
+   			position: fixed;
+    			z-index: 1;
+   			top: 0;
+    			left: 0;
+    			background-color: #000000; /* Black */
+			margin-top: 10px
+    			overflow-x: hidden;
 		}
 
-#header{
-			position: relative;
-		}
-		
-#header #nav{
-			list-style: none;
+/* Style the sidenav links */
+.sidenav a{
+			display: block;
+			padding: 30px;
 			text-align: center;
-			font-size: 26px;
-		}
-
-#header #nav ul{
-			margin: 0;
-		}
-
-#header #nav li{
-			display: inline;
-		}
-
-#header #nav li a{
-			font-family: "Roboto Slab", serif;
-			text-decoration: none;
-			color: #ffffff; /* White */
-			line-height: 30px;
+			text-decoration:  none;
 			text-transform: uppercase;
-			font-weight: bold;
-		}
-
-#header #nav li a:hover{
-			color: #ffffff; /* White */
-		}
-		
-#nav #resume-link{
-			margin-right: 75px;
-		}
-
-#nav #contact-link{
-			margin-left: 75px;
-		}
-		
-#nav #about-link{
-			margin-right: 75px;
-		}
-		
-#nav #gallery-link{
-			margin-left: 75px;
-		}
-
-#pageStart{
-			padding-top: 65px;
-		}
-
-/* Opening text placement and style, complete with a transparent white background for readability */
-.openingText{
+			font-family: "Roboto Slab", serif; /* Serif fallback font in case "Roboto Slab" fails to load from the Google Fonts style sheet */
+			font-weight: 700;
+			color: #aeaeae; /* A light grey */
 			font-size: 24px;
-			text-	align: center;
-			margin: 25px auto;
-			padding: 10px;
-			font-family: "Roboto Slab", serif;
+		}
+
+/* Main content */
+.about, .resume, .gallery, .contact{
+    			margin-left: 230px; /* At least as wide as sidenav */
+   	 		font-size: 25px; /* Big text to enable scrolling */
+			font-family: "Roboto", sans-serif; /* Sans-serif fallback font in case "Roboto" fails to load from the Google Fonts style sheet */
+		}
+
+/* Changes the font of the headings, as the headings fall into the <div> containers that are already set for the "Roboto" font */
+h2{
+			font-family: "Roboto Slab", serif; /* Serif fallback font in case "Roboto Slab" fails to load from the Google Fonts style sheet */
+		}
+
+/* Adds an indent for main paragraphs */
+.indent{
+			text-indent: 50px;
+		}
+
+/* Adds space between the bullet/icon and text for <ul> */
+li span{
+			position: relative; left: 20px;
+		}
+
+/* Customizes the list to make it 2 columns */
+.list-columns{
+			-webkit-column-count: 2;
+			column-count: 2;
+			margin: 0 auto;
+			list-style-type: none;
+		}
+
+/* Adds a style for the quote under the profile pic in the sidenav */
+.quote{
+			color: black;
+			display: inline-block;
+			background-color: white;
+			padding-top: 5px 0;
+			padding-bottom: 5px 0;
+			font-size: 18px;
+			font-family: "Supermercado One", cursive; /* Cursive fallback font in case the "Supermercado One" fails to load from the Google Fonts style sheet */
+			text-align: center;
+		}
+
+/* Adds a style for the greeting */
+.greeting{
+		margin-left: 230px;
+			font-size: 30px;
+			font-family: "Roboto Slab", serif; /* Serif fallback font in case the "Roboto Slab" fails to load from the Google Fonts style sheet */
 			text-align: center;
 			background-color: rgba(255,255,255, 0.35); /* White, with 35% Opacity */
-			border: 2px solid black;
-			border-radius: 3px;
+			border: 3px solid black;
+			border-radius: 10px;
 		}
 
+/* Some media queries for responsiveness */
+@media screen and (max-height: 650px) {
+			/* Adds a scroll bar for smaller screens (height-wise) in the y-axis */
+			.sidenav {overflow-y: auto;} 		}
 
-.column{
-			padding-left: 12px;
-			padding-right: 12px;
-			float: left;
+@media screen and (max-width: 1480px) {
+			/* Makes the class "list-columns" change to have one column and display in a table format */
+			.list-columns{ 
+				-webkit-column-count: 1; 
+				column-count: 1; 
+				display: table;}
 		}
 
-/* Assists to differentiate main links (About, Resume, Gallery, Contact) */
-.row{
-			width:100%;
-			margin-left: auto;
-			margin-right: auto;
-			margin-top: 0;
-			margin-bottom: 0;
-			max-width: 1080px;
+@media screen and (max-width: 875px) {
+			/* Shrinks the margin to match the sidenav for smaller screens, and makes the font smaller so as not to require as much scrolling */
+			.about, .resume, .gallery, .contact{font-size: 20px; margin-left: 117px;}
+
+			/* Shrinks the sidenav container for smaller screens */
+			.sidenav {width: 112px;}
+
+			/* Shrinks the margin to match the sidenav for smaller screens, and makes the font smaller */
+			.greeting{margin-left: 117px; font-size: 25px}
+
+			/* Shrinks the font of the links in the sidenav, and centers them in the new size */	
+			.sidenav a{font-size: 14px; text-align: center;}
 		}
 
-/*Style for main content, aside from the opening text*/
-.bodyText{
-			font-size: 20px;
-			padding-top: 5px;
-			font-family: "Roboto", serif;
-		}
-
-h2{
-			padding-top: 10px;
-			font-family: "Roboto Slab", serif;
-		}
-
-.custom-list{
-  			padding-left: 15px;
-  			list-style-type: none;
-			font-family: "Roboto", serif;
-		}		
-
-.custom-list li{
-  			counter-increment: li;
-  			margin-bottom: 10px;
-		}
-
-/* Custome style for <ol>. Changed to feature a counter to automatically go +1 when a new <li></li> is made, 
-as well as go from traditional numbering to roman numerals */
-.custom-list li:before{
-  			content: counter(li, upper-roman);
-  			font-size: 80%;
-  			background-color: #000000;
-  			color: white;
-  			font-weight: bold;
-  			padding: 3px 8px;
-  			border-radius: 3px;
-			display: inline-block;
-			width: 20px;
-			margin-left: -24px;
-			margin-right: 8px;
-			text-align: center;
-		}
-
-/* Self explaining: Splits the <ol> into two columns, each with a fixed width, and separated with a specified gap */
-.two-columns{
-			column-count: 2;
-			column-gap: 100px;
-			column-width: 300px;
-		}
-
-#skills li{
-			font-size: 18px;
-			padding: 6px 25px;
-		}
-
-/* Helps make the links more notiecable */
-a.customLink{
-			color: #2f2fff; /* Blue type of Color */
-			text-decoration: none;
-		}
-
-a.customLink:hover{
-			color: #ffffff; /* White */
-			background-color: #000000;
-			border-radius: 3px;
-		}
-
-.portraitImage{
+/* Adds a style to the picture in the sidenav */
+.profilePic{
 			display: block;
     			margin-left: auto;
     			margin-right: auto;
 			border-radius: 65%;
+			border: 2px solid white;
+			width: 100%;
+		}
+
+/* Changes the links in the body */
+a.internal{
+			text-indent: initial; /* Cancels the text-indent from a previous class to default settings */
+			text-decoration: none;
+			font-weight: bold;
+			color: blue;
+		}
+
+/* Changes the links in the body when the cursor hovers on them */
+a.internal:hover{
+			background-color: black;
+			color: white;
+			border-radius: 5px;	
 		}
 
 /* Custom design for the 'Beam Me Up, Scotty' button */
 .buttonTop{
-			background: radial-gradient(#FF3232, #3d0000);
+			background: radial-gradient(#ff3233, #3d0000); /* Light red center, getting a darker red towards the edges */
     			border: solid;
 			border-color: black;
-			border-radius: 50%;
+			border-radius: 50%; /* Gives the button an oval shape */
     			color: white;
 			float: right;
     			padding: 20px;
@@ -182,14 +151,16 @@ a.customLink:hover{
     			font-size: 16px;
     			margin: 4px 2px;
     			cursor: pointer;
+			font-family: "Roboto Slab", serif;
+			font-weight: bold;
 		}
 
-/* Changes the button when hovering on the button */
+/* Custom design for the 'Beam Me Up, Scotty' button when the cursor hovers over the button */
 .buttonTop:hover{
-			background: radial-gradient(#46467D, #00003C);
+			background: radial-gradient(#46467d, #00003c); /* Light blue center, getting a darker blue towards the edges */
     			border: solid;
 			border-color: black;
-			border-radius: 50%;
+			border-radius: 50%; /* Gives the button an oval shape */
     			color: white;
 			float: right;
     			padding: 20px;
@@ -199,102 +170,98 @@ a.customLink:hover{
     			font-size: 16px;
     			margin: 4px 2px;
     			cursor: pointer;
+			font-family: "Roboto Slab", serif;
+			font-weight: bold;
 		}
 
-/* Buzz animation for certain links */
-@-webkit-keyframes hvr-buzz{
-  			50%{
-    				-webkit-transform: translateX(3px) rotate(2deg);
-   				 transform: translateX(3px) rotate(2deg);
-  			}
-  			100%{
-    				-webkit-transform: translateX(-3px) rotate(-2deg);
-   				 transform: translateX(-3px) rotate(-2deg);
-  			}
-		}
+/* Adds a custom style to the video */
+video{
+			display: block;
+			margin: 0 auto;
+			align: center;
+			width: 80%;
+}
+		
+/* Bob animation for the "Beam Me Up, Scotty" button. Makes the object quickly (0.3s) go up 8px, then "bobs" 4px up and down upon hovering over the button */
+@-webkit-keyframes hvr-bob{
+  		0%{
+    			-webkit-transform: translateY(-8px);
+    			transform: translateY(-8px);
+  		}
+  		50%{
+    			-webkit-transform: translateY(-4px);
+    			transform: translateY(-4px);
+  		}
+  		100%{
+    			-webkit-transform: translateY(-8px);
+    			transform: translateY(-8px);
+  		}
+	}
 
-@keyframes hvr-buzz{
-  			50%{
-    				-webkit-transform: translateX(3px) rotate(2deg);
-    				transform: translateX(3px) rotate(2deg);
-  			}
-  			100%{
-    				-webkit-transform: translateX(-3px) rotate(-2deg);
-    				transform: translateX(-3px) rotate(-2deg);
-  			}
-		}
+@keyframes hvr-bob {
+  		0%{
+    			-webkit-transform: translateY(-8px);
+    			transform: translateY(-8px);
+  		}
+  		50%{
+    			-webkit-transform: translateY(-4px);
+    			transform: translateY(-4px);
+  		}
+  		100%{
+    			-webkit-transform: translateY(-8px);
+    			transform: translateY(-8px);
+  		}
+	}
 
-.hvr-buzz{
-  			display: inline-block;
-  			-webkit-transform: perspective(1px) translateZ(0);
-  			transform: perspective(1px) translateZ(0);
-  			box-shadow: 0 0 1px transparent;
-		}
+@-webkit-keyframes hvr-bob-float {
+  		100%{
+    			-webkit-transform: translateY(-8px);
+    			transform: translateY(-8px);
+  		}
+	}
 
-.hvr-buzz:hover, .hvr-buzz:focus, .hvr-buzz:active{
-  			-webkit-animation-name: hvr-buzz;
-  			animation-name: hvr-buzz;
-  			-webkit-animation-duration: 0.15s;
-  			animation-duration: 0.15s;
-  			-webkit-animation-timing-function: linear;
- 			 animation-timing-function: linear;
-  			-webkit-animation-iteration-count: infinite;
-  			animation-iteration-count: infinite;
-		}
+@keyframes hvr-bob-float {
+  		100%{
+    			-webkit-transform: translateY(-8px);
+    			transform: translateY(-8px);
+  		}
+	}
 
-/* Makes the link hover a couple of pixels up, and gives it a transparent shadow */
-.hvr-float-shadow {
+.hvr-bob{
   			display: inline-block;
   			vertical-align: middle;
   			-webkit-transform: perspective(1px) translateZ(0);
   			transform: perspective(1px) translateZ(0);
   			box-shadow: 0 0 1px transparent;
-  			position: relative;
-  			-webkit-transition-duration: 0.3s;
-  			transition-duration: 0.3s;
-  			-webkit-transition-property: transform;
-  			transition-property: transform;
-		}
-.hvr-float-shadow:before {
-  			pointer-events: none;
-  			position: absolute;
-  			z-index: -1;
-  			content: '';
-  			top: 100%;
-  			left: 5%;
-  			height: 10px;
-  			width: 90%;
-  			opacity: 0;
-  			background: -webkit-radial-gradient(center, ellipse, rgba(0, 0, 0, 0.75) 0%, transparent 80%);
-  			background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.75) 0%, transparent 80%);
-  			/* W3C */
-  			-webkit-transition-duration: 0.3s;
-  			transition-duration: 0.3s;
-  			-webkit-transition-property: transform, opacity;
-  			transition-property: transform, opacity;
 		}
 
-.hvr-float-shadow:hover, .hvr-float-shadow:focus, .hvr-float-shadow:active {
-  			-webkit-transform: translateY(-5px);
-  			transform: translateY(-5px); /* move the element up by 5px */
+.hvr-bob:hover, .hvr-bob:focus, .hvr-bob:active{
+  			-webkit-animation-name: hvr-bob-float, hvr-bob;
+  			animation-name: hvr-bob-float, hvr-bob;
+  			-webkit-animation-duration: .3s, 1.5s;
+  			animation-duration: .3s, 1.5s;
+  			-webkit-animation-delay: 0s, .3s;
+  			animation-delay: 0s, .3s;
+  			-webkit-animation-timing-function: ease-out, ease-in-out;
+  			animation-timing-function: ease-out, ease-in-out;
+  			-webkit-animation-iteration-count: 1, infinite;
+  			animation-iteration-count: 1, infinite;
+  			-webkit-animation-fill-mode: forwards;
+  			animation-fill-mode: forwards;
+  			-webkit-animation-direction: normal, alternate;
+  			animation-direction: normal, alternate;
 		}
 
-.hvr-float-shadow:hover:before, .hvr-float-shadow:focus:before, .hvr-float-shadow:active:before {
-  			opacity: 1;
-  			-webkit-transform: translateY(5px);
-  			transform: translateY(5px); /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
-		}
-
-/* Back Pulse animation for Nav Bar links */
+/* Back Pulse animation for Nav Bar links. Makes the object 'pulse' with a certain color infinitely, with the animation being a half-second transition of the color being at 45% to 100% opacity */
 @-webkit-keyframes hvr-back-pulse{
-  			50%{
-    				background-color: rgba(19,141,72, 0.45);
-  			}
-		}
+  		50%{
+    			background-color: rgba(19,141,72, 0.45); /* Green color */
+  		}
+	}
 
 @keyframes hvr-back-pulse{
-  			50%{
-    				background-color: rgba(19,141,72, 0.45);
+  		50%{
+    			background-color: rgba(19,141,72, 0.45); /* Green color */
   			}
 		}
 
@@ -322,21 +289,61 @@ a.customLink:hover{
   			animation-timing-function: linear;
   			-webkit-animation-iteration-count: infinite;
   			animation-iteration-count: infinite;
-  			background-color: #138D48;
-  			background-color: #138D48;
-  			color: white;
+  			background-color: #138D48; /* Same as the color above, without the opacity filter */
+  			color: white; /* Font color */
 		}
 
+/* Pulse animation for internal links within the body. Makes the object grow and shrink in 5% increments in 1 second intervals infinitely */
+@-webkit-keyframes hvr-pulse {
+		25% {
+    			-webkit-transform: scale(1.1);
+    			transform: scale(1.1);
+  		}
+
+  		75% {
+    			-webkit-transform: scale(0.9);
+    			transform: scale(0.9);
+  		}
+	}
+
+@keyframes hvr-pulse {
+  		25% {
+    			-webkit-transform: scale(1.1);
+    			transform: scale(1.05);
+  		}
+
+  		75% {
+    			-webkit-transform: scale(0.9);
+    			transform: scale(0.95);
+  		}
+	}
+
+.hvr-pulse {
+  		display: inline-block;
+  		-webkit-transform: perspective(1px) translateZ(0);
+  		transform: perspective(1px) translateZ(0);
+  		box-shadow: 0 0 1px transparent;
+	}
+
+.hvr-pulse:hover, .hvr-pulse:focus, .hvr-pulse:active {
+  		-webkit-animation-name: hvr-pulse;
+  		animation-name: hvr-pulse;
+  		-webkit-animation-duration: 1s;
+  		animation-duration: 1s;
+  		-webkit-animation-timing-function: linear;
+  		animation-timing-function: linear;
+  		-webkit-animation-iteration-count: infinite;
+  		animation-iteration-count: infinite;
+	}
+
 /*The following CSS code was helped in part by W3Schools 'How To' on slideshows*/
-
-
 *{
-		box-sizing:border-box;
+			box-sizing:border-box;
 		}
 
 /* Slideshow container */
 .slideshow-container{
-  			max-width: 1000px;
+  			max-width: 85%; /* Widens the container to 85% of the window */
   			position: relative;
   			margin: auto;
 		}
@@ -367,9 +374,9 @@ a.customLink:hover{
   			border-radius: 3px 0 0 3px;
 		}
 
-/* On hover, add a black background color with 80% opacity*/
+/* Adds a black background color with 80% opacity on the next and previous buttons on hover */
 .prev:hover, .next:hover{
-  			background-color: rgba(0, 0, 0, 0.8);
+  			background-color: rgba(0, 0, 0, 0.8); /* Black with a 80% opacity */
 		}
 
 /* Caption text, with a white background color of 50% opacity */
@@ -379,7 +386,7 @@ a.customLink:hover{
   			padding: 8px 12px;
   			font-weight: bold;
   			position: absolute;
-  			background-color: rgba(255, 255, 255, 0.5);
+  			background-color: rgba(255, 255, 255, 0.5); /* White with a 50% opacity */
   			bottom: 4px;
   			width: 100%;
   			text-align: center;
@@ -387,8 +394,8 @@ a.customLink:hover{
 
 /* Number text (1/5 etc) */
 .numbertext{
-  			color: #f2f2f2;
-			background-color: rgba(0, 0, 0, 0.6);
+  			color: #f2f2f2; /* Light grey/borderline white color */
+			background-color: rgba(0, 0, 0, 0.6); /* White with a 60% opacity */
 			border-radius: 5px;
   			font-size: 12px;
   			padding: 8px 12px;
@@ -420,12 +427,13 @@ a.customLink:hover{
   			animation-duration: 1.0s;
 		}
 
+/* Fade animation foes from 40% to 100% opacity */
 @-webkit-keyframes fade{
   			from {opacity: .4} 
   			to {opacity: 1}
 		}
 
 @keyframes fade{
-  		from {opacity: .4} 
-  		to {opacity: 1}
+  			from {opacity: .4} 
+  			to {opacity: 1}
 		}
