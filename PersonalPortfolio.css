@@ -1,5 +1,5 @@
 html{ 
- 			background: url(ThirdFang.github.io/wallpaper-back.jpg) no-repeat center center fixed; /* Causes the image to be centered on the window, fixed (does not move when scrolling), and doesn't repeat itself when it reaches its size properties */
+ 			background: url(https://ThirdFang.github.io/wallpaper-back.jpg) no-repeat center center fixed; /* Causes the image to be centered on the window, fixed (does not move when scrolling), and doesn't repeat itself when it reaches its size properties */
   			background-size: cover; /* Makes the background cover the entire window (scales the image if the window is minimized or changed in some way) */
 			-webkit-background-size: cover;
 			background-color: #75cb4c; /* Should the image not load/take too long to load, a green color that closely resembles the image will take its place, so as not to be white, or to help blend in the image seamlessly when it does load */
