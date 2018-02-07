@@ -1,5 +1,5 @@
 html{ 
- 			background: url(https://ThirdFang.github.io/wallpaper-back.jpg) no-repeat center center fixed; /* Causes the image to be centered on the window, fixed (does not move when scrolling), and doesn't repeat itself when it reaches its size properties */
+ 			background: url(Media/wallpaper-back.jpg) no-repeat center fixed; /* Causes the image to be centered on the window, fixed (does not move when scrolling), and doesn't repeat itself when it reaches its size properties */
   			background-size: cover; /* Makes the background cover the entire window (scales the image if the window is minimized or changed in some way) */
 			-webkit-background-size: cover;
 			background-color: #75cb4c; /* Should the image not load/take too long to load, a green color that closely resembles the image will take its place, so as not to be white, or to help blend in the image seamlessly when it does load */
@@ -68,7 +68,7 @@ li span{
 			background-color: white;
 			padding-top: 5px 0;
 			padding-bottom: 5px 0;
-			font-size: 18px;
+			font-size: 20px;
 			font-family: "Supermercado One", cursive; /* Cursive fallback font in case the "Supermercado One" fails to load from the Google Fonts style sheet */
 			text-align: center;
 		}
@@ -82,33 +82,6 @@ li span{
 			background-color: rgba(255,255,255, 0.35); /* White, with 35% Opacity */
 			border: 3px solid black;
 			border-radius: 10px;
-		}
-
-/* Some queries for responsiveness */
-@media screen and (max-height: 650px) {
-			/* Adds a scroll bar for smaller screens (height-wise) in the y-axis */
-			.sidenav {overflow-y: auto;} 		}
-
-@media screen and (max-width: 1480px) {
-			/* Makes the class "list-columns" change to have one column and display in a table format */
-			.list-columns{ 
-				-webkit-column-count: 1; 
-				column-count: 1; 
-				display: table;}
-		}
-
-@media screen and (max-width: 875px) {
-			/* Shrinks the margin to match the sidenav for smaller screens, and makes the font smaller so as not to require as much scrolling */
-			.about, .resume, .gallery, .contact{font-size: 20px; margin-left: 117px;}
-
-			/* Shrinks the sidenav container for smaller screens */
-			.sidenav {width: 112px;}
-
-			/* Shrinks the margin to match the sidenav for smaller screens, and makes the font smaller */
-			.greeting{margin-left: 117px; font-size: 25px}
-
-			/* Shrinks the font of the links in the sidenav, and centers them in the new size */	
-			.sidenav a{font-size: 14px; text-align: center;}
 		}
 
 /* Adds a style to the picture in the sidenav */
@@ -397,7 +370,7 @@ video{
   			color: #f2f2f2; /* Light grey/borderline white color */
 			background-color: rgba(0, 0, 0, 0.6); /* White with a 60% opacity */
 			border-radius: 5px;
-  			font-size: 12px;
+  			font-size: 7px;
   			padding: 8px 12px;
   			position: absolute;
   			top: 0;
@@ -436,4 +409,37 @@ video{
 @keyframes fade{
   			from {opacity: .4} 
   			to {opacity: 1}
+		}
+
+/* Some media queries for responsiveness */
+@media screen and (max-height: 650px) {
+			/* Adds a scroll bar for smaller screens (height-wise) in the y-axis */
+			.sidenav {overflow-y: auto;} 		}
+
+@media screen and (max-width: 1480px) {
+			/* Makes the class "list-columns" change to have one column and display in a table format */
+			.list-columns{ 
+				-webkit-column-count: 1; 
+				column-count: 1; 
+				display: table;}
+		}
+
+@media screen and (max-width: 875px) {
+			/* Shrinks the margin to match the sidenav for smaller screens, and makes the font smaller so as not to require as much scrolling */
+			.about, .resume, .gallery, .contact{font-size: 16px; margin-left: 117px;}
+
+			/* Shrinks the sidenav container for smaller screens */
+			.sidenav {width: 112px;}
+
+			/* Shrinks the margin to match the sidenav for smaller screens, and makes the font smaller */
+			.greeting{margin-left: 117px; font-size: 18px}
+
+			/* Shrinks the font of the links in the sidenav, and centers them in the new size */	
+			.sidenav a{font-size: 14px; text-align: center;}
+
+			/* Shrinks the font of the caption for smaller screens, so that the caption doesn't cover the picture */
+			.text{font-size: 10px;}
+
+			/* Shrinks the font of the quote for smaller screens, so that the sentence visually flows better */
+			.quote{font-size: 14px;}
 		}
