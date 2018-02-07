@@ -1,5 +1,5 @@
 html{ 
- 			background: url(Media/wallpaper-back.jpg) no-repeat center fixed; /* Causes the image to be centered on the window, fixed (does not move when scrolling), and doesn't repeat itself when it reaches its size properties */
+ 			background: url(ThirdFang.github.io/wallpaper-back.jpg) no-repeat center fixed; /* Causes the image to be centered on the window, fixed (does not move when scrolling), and doesn't repeat itself when it reaches its size properties */
   			background-size: cover; /* Makes the background cover the entire window (scales the image if the window is minimized or changed in some way) */
 			-webkit-background-size: cover;
 			background-color: #75cb4c; /* Should the image not load/take too long to load, a green color that closely resembles the image will take its place, so as not to be white, or to help blend in the image seamlessly when it does load */
@@ -84,7 +84,7 @@ li span{
 			border-radius: 10px;
 		}
 
-/* Some media queries for responsiveness */
+/* Some queries for responsiveness */
 @media screen and (max-height: 650px) {
 			/* Adds a scroll bar for smaller screens (height-wise) in the y-axis */
 			.sidenav {overflow-y: auto;} 		}
