@@ -8,19 +8,18 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab|Supermercado+One">
-	<link rel="stylesheet" href="ThirdFang.github.io/PersonalPortfolio.css">
+	<link rel="stylesheet" href="Portfolio.css">
 	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 
 	<script> <!-- Adds a smooth scrolling function to internal links -->
 		
 		$(document).ready(function(){
   			$("a").on('click', function(event) {
-
     			if (this.hash !== "") {
 					event.preventDefault();
 					var hash = this.hash;
-
 					<!-- Giving the 'Smooth Scroll' function a speed of 1300 ms to reach the link -->
 					$('html, body').animate({
         					scrollTop: $(hash).offset().top
@@ -31,7 +30,6 @@
     			} <!-- End 'if' statement -->
 			});
 		});
-
 	</script> <!-- End Smooth Scroll script -->
 
 </head>
@@ -41,7 +39,9 @@
 	<div class="sidenav">
 
 		<img src="ThirdFang.github.io/Cary_Vailes.jpg" class="profilePic">
-		<p class="quote"><q>I don't have the solution...But I do admire the problem</q></p>
+		<p class="quote" id="quoteDisplay">I don't have the solution...But I certainly do admire the problem -Ashleigh Brilliant</p> <!-- Starting quote to fill the space. Clicking the 'New Quote Please!' button will go through the 'quotes' array and choose one randomly -->
+			<center><button onclick="newQuote()" class="quoteButton hvr-fade">New Quote Please!</button></center>
+			<script src="javascript.js"></script> <!-- Accesses the separate javascript file that contains the 'quotes' array and the code that randomly picks one to display -->
   		<a href="#about" class="hvr-back-pulse">About</a>
   		<a href="#resume" class="hvr-back-pulse">Resume</a>
   		<a href="#gallery" class="hvr-back-pulse">Gallery</a>
@@ -163,15 +163,12 @@
 			<script> 
 				var slideIndex = 1;
 				showSlides(slideIndex);
-
 				function plusSlides(n) {
 					showSlides(slideIndex += n);
 				}
-
 				function currentSlide(n) {
   					showSlides(slideIndex = n);
 				}
-
 				function showSlides(n) {
   					var i;
   					var slides = document.getElementsByClassName("mySlides");
@@ -180,7 +177,6 @@
 					if (n > slides.length) {
 						slideIndex = 1;
 					}
-
 					if (n < 1) {
 						slideIndex = slides.length;
 					}
@@ -188,7 +184,6 @@
 					for (i = 0; i < slides.length; i++) {
       					slides[i].style.display = "none";  
   					}
-
 					for (i = 0; i < dots.length; i++) {
       					dots[i].className = dots[i].className.replace(" active", "");
   					}
@@ -209,7 +204,7 @@
 			<p class="indent">While there are no prizes, I would feel bad if you left this page without having something to entertain you. So, here's a video of Doritos&reg 2018 Super Bowl commercial. Witness greatness as we see Peter Dinklage (literally) spitting fire to Busta Rhymes's verse from Chris Brown's "<a href="https://www.youtube.com/watch?v=8gyLR4NfMiI" target="_blank" class="hvr-pulse internal">Look At Me Now</a>", against Morgan Freeman's <i>chilling</i> performance of Missy Elliott's "<a href="https://www.youtube.com/watch?v=FPoKiGQzbSQ" target="_blank" class="hvr-pulse internal">Get Ur Freak On</a>". Let the epic showdown between the greats commence!</p>
 
 			<video controls controlsList="nodownload" oncontextmenu="return false"> <!-- Makes it so that viewers can't download the video from either the video player or the context menu...but if you can see this, then you can download the video anyway. This just stops the incompetent -->
-				<source src="ThirdFang.github.io/Doritos 2018.mp4" source"video/mp4">
+				<source src="THirdFang.github.io/Doritos 2018.mp4" source"video/mp4">
 			</video> <!-- Credit for the video is from YouTube, and and is brought to you by Doritos and Mountain Dew. Originally found here: https://www.youtube.com/watch?v=-XLkru5Nzd4 -->
 
 		</div> <!-- End contact -->
@@ -219,12 +214,10 @@
 		<button onclick="topFunction()" class="buttonTop hvr-bob" id="backToTop" title="Got to Top">Beam Me Up, Scotty!</button>
 
 		<script>
-
 			$('#backToTop').click(function(){
 				$("html, body").animate({scrollTop:0}, 2500);
 				return false;
 			});
-
 		</script> <!-- End 'Return to Top' script -->
 </body>
 </html> 
