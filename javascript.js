@@ -76,7 +76,7 @@ var quotes = [
 	'I\'m sick of following my dreams. I\'m just going to ask them where they\'re goin\', and hook up with them later <br />-Mitch Hedberg',
 	'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it <br />-W. C. Fields',
 	'There are 10 types of people in the world: those who understand binary, and those who don\'t <br />-Unknown',
-	'Never half-ass two things. Whole-ass thing <br />-Ron Swanson from \"Parks and Recreation\"'
+	'Never half-ass two things. Whole-ass one thing <br />-Ron Swanson from \"Parks and Recreation\"'
 ];
 
 function newQuote() {
