@@ -14,8 +14,7 @@ html{
    			top: 0;
     			left: 0;
     			background-color: #000000; /* Black */
-			margin-top: 10px
-    			overflow-x: hidden;
+    			overflow-y: hidden;
 		}
 
 /* Style the sidenav links */
@@ -50,7 +49,8 @@ h2{
 
 /* Adds space between the bullet/icon and text for <ul> */
 li span{
-			position: relative; left: 20px;
+			position: relative;
+			left: 20px;
 		}
 
 /* Customizes the list to make it 2 columns */
@@ -64,18 +64,19 @@ li span{
 /* Adds a style for the quote under the profile pic in the sidenav */
 .quote{
 			color: black;
+			width: 100%;
 			display: inline-block;
 			background-color: white;
-			padding-top: 5px 0;
-			padding-bottom: 5px 0;
-			font-size: 20px;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			font-size: 16px;
 			font-family: "Supermercado One", cursive; /* Cursive fallback font in case the "Supermercado One" fails to load from the Google Fonts style sheet */
 			text-align: center;
 		}
 
 /* Adds a style for the greeting */
 .greeting{
-		margin-left: 230px;
+			margin-left: 230px;
 			font-size: 30px;
 			font-family: "Roboto Slab", serif; /* Serif fallback font in case the "Roboto Slab" fails to load from the Google Fonts style sheet */
 			text-align: center;
@@ -146,6 +147,17 @@ a.internal:hover{
 			font-family: "Roboto Slab", serif;
 			font-weight: bold;
 		}
+/* Adds a custom style for the "New Quote, Please!" button */
+.quoteButton{
+			width: 95%; <!-- Stays at 95% width of it's container. Helps when the screen size changes -->
+			color: #000000; /* Black */
+			font-family: "Roboto", serif;
+			font-size: 18px;
+			font-weight: bold;
+			text-decoration: none;
+			text-align: center;
+			margin-bottom: 3px;
+		}
 
 /* Adds a custom style to the video */
 video{
@@ -153,8 +165,28 @@ video{
 			margin: 0 auto;
 			align: center;
 			width: 80%;
-}
-		
+		}
+	
+/* Fade animation for the "New Quote, Please!" button. Makes the object fade in and out with a certain color (font and background) within 0.5 seconds */
+.hvr-fade{
+  			display: inline-block;
+  			vertical-align: middle;
+  			-webkit-transform: perspective(1px) translateZ(0);
+  			transform: perspective(1px) translateZ(0);
+  			box-shadow: 0 0 1px transparent;
+  			overflow: hidden;
+  			-webkit-transition-duration: 0.5s;
+  			transition-duration: 0.5s;
+  			-webkit-transition-property: color, background-color;
+  			transition-property: color, background-color;
+		}
+
+.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
+  			background-color: #138D48; /* A light green color */
+  			color: #ffffff; /* White */
+			cursor: pointer;
+		}
+	
 /* Bob animation for the "Beam Me Up, Scotty" button. Makes the object quickly (0.3s) go up 8px, then "bobs" 4px up and down upon hovering over the button */
 @-webkit-keyframes hvr-bob{
   		0%{
@@ -441,5 +473,5 @@ video{
 			.text{font-size: 10px;}
 
 			/* Shrinks the font of the quote for smaller screens, so that the sentence visually flows better */
-			.quote{font-size: 14px;}
+			.quote, .quoteButton{font-size: 14px;}
 		}
