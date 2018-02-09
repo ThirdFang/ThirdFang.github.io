@@ -74,7 +74,7 @@ var quotes = [
 	'A clear conscience is usually the sign of a bad memory <br />-Steven Wright',
 	'Rice is great if you\'re really hungry and want to eat two thousand of something <br />-Mitch Hedberg',
 	'I\'m sick of following my dreams. I\'m just going to ask them where they\'re goin\', and hook up with them later <br />-Mitch Hedberg',
-	'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it <br />-W. C. Fields'
+	'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it <br />-W. C. Fields',
 	'There are 10 types of people in the world: those who understand binary, and those who don\'t <br />-Unknown'
 ];
 
