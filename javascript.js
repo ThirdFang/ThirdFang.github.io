@@ -5,7 +5,7 @@ var quotes = [
 	'People who think they know everything are a great annoyance to those of us who do <br />-Isaac Asimov',
 	'Get your facts first, then you can distort them as you please <br />-Mark Twain',
 	'I\'m sorry, if you were right, I\'d agree with you <br />-Robin Williams',
-	'There\'s a very fine line between not listening and not caring. I like to think I walk that line every day of my life <br />-Church\, \"Red vs Blue\"',
+	'There\'s a very fine line between not listening and not caring. I like to think I walk that line every day of my life <br />-Church\ from \"Red vs Blue\"',
 	'Procrastination is the art of keeping up with yesterday <br />-Don Marquis',
 	'I love deadlines. I like the whooshing sound they make as they fly by <br />-Douglas Adams',
 	'Weather forecast for tonight: Dark <br />-George Carlin',
@@ -75,7 +75,8 @@ var quotes = [
 	'Rice is great if you\'re really hungry and want to eat two thousand of something <br />-Mitch Hedberg',
 	'I\'m sick of following my dreams. I\'m just going to ask them where they\'re goin\', and hook up with them later <br />-Mitch Hedberg',
 	'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it <br />-W. C. Fields',
-	'There are 10 types of people in the world: those who understand binary, and those who don\'t <br />-Unknown'
+	'There are 10 types of people in the world: those who understand binary, and those who don\'t <br />-Unknown',
+	'Never half-ass two things. Whole-ass thing <br />-Ron Swanson from \"Parks and Recreation\"'
 ];
 
 function newQuote() {
