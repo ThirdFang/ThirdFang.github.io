@@ -5,7 +5,7 @@ var quotes = [
 	'People who think they know everything are a great annoyance to those of us who do <br />-Isaac Asimov',
 	'Get your facts first, then you can distort them as you please <br />-Mark Twain',
 	'I\'m sorry, if you were right, I\'d agree with you <br />-Robin Williams',
-	'There\'s a very fine line between not listening and not caring. I like to think I walk that line every day of my life <br />-Church\ from \"Red vs Blue\"',
+	'There\'s a very fine line between not listening and not caring. I like to think I walk that line every day of my life <br />-Church from \"Red vs Blue\"',
 	'Procrastination is the art of keeping up with yesterday <br />-Don Marquis',
 	'I love deadlines. I like the whooshing sound they make as they fly by <br />-Douglas Adams',
 	'Weather forecast for tonight: Dark. Continued dar overnight, with widely scattered light by morning<br />-George Carlin',
@@ -92,11 +92,27 @@ var quotes = [
 	'Never knock on death\'s door. Ring the dorrbell then run. He totally hates that <br />-Darynda Jones',
 	'If I\'m walking on thin ice, I might as well dance my way across <br />-Mercedes Lackey',
 	'Oh, you hate your job? Why didn\'t you say so? There\'s a support group for that. It\'s called EVERYBODY, and the meet at the bar <br />-Drew Carey',
-	'Anybody who says they are a good liar obviously is not, because any legitimately savvy liar would always insist they\'re hones about everything <br />Chuck Klosterman',
+	'Anybody who says they are a good liar obviously is not, because any legitimately savvy liar would always insist they\'re honest about everything <br />Chuck Klosterman',
 	'If at first you don\'t succeed, destroy all evidence that you tried <br />-Steven Wright',
 	'I\'m not dumb. I just have a command of thoroughly useless information <br />-Bill Watterson',
 	'I think I am, therefore, I am...I think <br />-George Carlin',
-	'I believe in equality. Equality for everybody. No matter how stupid they are or how superior I am to them <br />-Steve Martin'
+	'I believe in equality. Equality for everybody. No matter how stupid they are or how superior I am to them <br />-Steve Martin',
+	'When I get sad, I stop being say and be awesome instead <br />-Barney Stinson from \"How I Met Your Mother\"',
+	'You are only young once, but you can stay immature indefinitely <br />-Ogden Nash',
+	'To alcohol! The cause of, and solution to, all of life\'s problems <br />-Matt Groening',
+	'The length of a film should be directly related to the endurance of the human bladder <br />-Alfred Hitchcock',
+	'Never put off till tomorrow what may be done day after tomorrow just as well <br />-Mark Twain',
+	'College is the best time of your life. When else are your parents going to spend several thousand dollars a year just for you to go to a strage town to get drunk every night <br />-David Wood',
+	'Be twice as funny as you are outrageous, because no one can resist the truth wrapped in a good joke <br />-Milo Yiannopoulos',
+	'Aim for the sun. That way if you miss, at least your arrow will fall far away, and the person it kills will likely be someone you don\'t know <br />-Brandon Sanderson',
+	'Time line? Time isn\'t made out of lines. It is made out of circles. That is why clocks are round <br />-Caboose from \"Red vs Blue\"',
+	'We\'re not retreating! We\'re advancing toward furture victories <br />-Sarge from \"Red vs Blue\"',
+	'Just act like you normally do. Waid, not like you, act like someone more brave...and smarter...and more masculine for God\'s sake! <br />-Sarge from \"Red vs Blue\"',
+	'There are two kinds of people in the world; those who have a plan prepared for when the zombies take over the Earth, and those who don\'t. We call those last people \"Dinner\" <br />-Grif from \"Red vs Blue\"',
+	'People learn English all the time...it aren\'t that hard <br />-Tucker from \"Red vs Blue\"',
+	'Invest in real estate. There\'s no such thing as a permanent record. Always eat breakfast. All the girls on the internet are actually dudes. And you should never, ever buy the extended warranty on anything, EVER <br />-Tucker from \"Red vs Blue\"',
+	'No matter how bad things seem, they can\'t be any better, and they can\'t be any worse, because that\'s the way things are, and you better get used to it, Nancy. Quit your bitchin\' <br />-Church from \"Red vs Blue\"',
+	'Ahh, the middle finger. The Most communicative of fingers <br />-Guybrush Threepwood from the \"Monkey Island\" series'
 ];
 
 function newQuote() {
