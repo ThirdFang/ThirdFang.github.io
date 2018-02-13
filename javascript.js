@@ -80,7 +80,23 @@ var quotes = [
 	'Never half-ass two things. Whole-ass one thing <br />-Ron Swanson from \"Parks and Recreation\"',
 	'Change is inevitable, except from a vending machine <br />-Unknown',
 	'No one can be exactly like me. Sometimes even I have trouble doing it <br />-Tallulah Bankhead',
-	'Do you know what \'meteorologist\' means in English? It means liar <br />-Lewis Black'
+	'Do you know what \'meteorologist\' means in English? It means liar <br />-Lewis Black',
+	'When life gives you lemons, squirt someone in the eye <br />-Cathy Guisewite',
+	'Never miss a good chance to shut up <br />-Will Rogers',
+	'One should never give up on hope...Unless that\'s the name of the girl who cheated on you, in whcich case, yeah, give her up <br />-Carroll Bryant',
+	'I understood it-until you tried to explainn it <br />-Erin Pracht',
+	'I refuse to answer that question on the grounds that I don\'t know the answer <br />-Douglas Adams',
+	'Nothing travels faster than the speed of light, with the possible exception of bad news, which obeys its own special laws <br />-Douglas Adams',
+	'I know all those words, but that sentence makes no sense to me <br />-Matt Groening',
+	'Who was the guy who first looked at a cow and said \"I think I\'ll drink whatever comes out of these when I squeeze \'em\" <br />-Bill Watterson',
+	'Never knock on death\'s door. Ring the dorrbell then run. He totally hates that <br />-Darynda Jones',
+	'If I\'m walking on thin ice, I might as well dance my way across <br />-Mercedes Lackey',
+	'Oh, you hate your job? Why didn\'t you say so? There\'s a support group for that. It\'s called EVERYBODY, and the meet at the bar <br />-Drew Carey',
+	'Anybody who says they are a good liar obviously is not, because any legitimately savvy liar would always insist they\'re hones about everything <br />Chuck Klosterman',
+	'If at first you don\'t succeed, destroy all evidence that you tried <br />-Steven Wright',
+	'I\'m not dumb. I just have a command of thoroughly useless information <br />-Bill Watterson',
+	'I think I am, therefore, I am...I think <br />-George Carlin',
+	'I Believe in equality. Equality for everybody. No matter how stupid they are or how superior I am to them <br />-Steve Martin'
 ];
 
 function newQuote() {
