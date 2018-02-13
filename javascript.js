@@ -8,7 +8,8 @@ var quotes = [
 	'There\'s a very fine line between not listening and not caring. I like to think I walk that line every day of my life <br />-Church\ from \"Red vs Blue\"',
 	'Procrastination is the art of keeping up with yesterday <br />-Don Marquis',
 	'I love deadlines. I like the whooshing sound they make as they fly by <br />-Douglas Adams',
-	'Weather forecast for tonight: Dark <br />-George Carlin',
+	'Weather forecast for tonight: Dark. Continued dar overnight, with widely scattered light by morning<br />-George Carlin',
+	'Isn\'t a bit underving that doctors call what they do \"Practice\"<br />-George Carlin',
 	'If two wrongs don\'t make a right, try three <br />-Laurence J. Peter',
 	'My life needs more editing <br />-Mort Sahl',
 	'Not only do I not know what\'s going on, I wouldn\'t know what to do about it if I did <br />-George Carlin',
@@ -76,7 +77,10 @@ var quotes = [
 	'I\'m sick of following my dreams. I\'m just going to ask them where they\'re goin\', and hook up with them later <br />-Mitch Hedberg',
 	'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it <br />-W. C. Fields',
 	'There are 10 types of people in the world: those who understand binary, and those who don\'t <br />-Unknown',
-	'Never half-ass two things. Whole-ass one thing <br />-Ron Swanson from \"Parks and Recreation\"'
+	'Never half-ass two things. Whole-ass one thing <br />-Ron Swanson from \"Parks and Recreation\"',
+	'Change is inevitable, except from a vending machine <br />-Unknown',
+	'No one can be exactly like me. Sometimes even I have trouble doing it <br />-Tallulah Bankhead',
+	'Do you know what \'meteorologist\' means in English? It means liar <br />-Lewis Black'
 ];
 
 function newQuote() {
