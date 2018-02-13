@@ -110,7 +110,6 @@ var quotes = [
 	'Just act like you normally do. Waid, not like you, act like someone more brave...and smarter...and more masculine for God\'s sake! <br />-Sarge from \"Red vs Blue\"',
 	'There are two kinds of people in the world; those who have a plan prepared for when the zombies take over the Earth, and those who don\'t. We call those last people \"Dinner\" <br />-Grif from \"Red vs Blue\"',
 	'People learn English all the time...it aren\'t that hard <br />-Tucker from \"Red vs Blue\"',
-	'Invest in real estate. There\'s no such thing as a permanent record. Always eat breakfast. All the girls on the internet are actually dudes. And you should never, ever buy the extended warranty on anything, EVER <br />-Tucker from \"Red vs Blue\"',
 	'No matter how bad things seem, they can\'t be any better, and they can\'t be any worse, because that\'s the way things are, and you better get used to it, Nancy. Quit your bitchin\' <br />-Church from \"Red vs Blue\"',
 	'Ahh, the middle finger. The Most communicative of fingers <br />-Guybrush Threepwood from the \"Monkey Island\" series'
 ];
