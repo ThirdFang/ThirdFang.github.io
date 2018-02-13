@@ -96,7 +96,7 @@ var quotes = [
 	'If at first you don\'t succeed, destroy all evidence that you tried <br />-Steven Wright',
 	'I\'m not dumb. I just have a command of thoroughly useless information <br />-Bill Watterson',
 	'I think I am, therefore, I am...I think <br />-George Carlin',
-	'I Believe in equality. Equality for everybody. No matter how stupid they are or how superior I am to them <br />-Steve Martin'
+	'I believe in equality. Equality for everybody. No matter how stupid they are or how superior I am to them <br />-Steve Martin'
 ];
 
 function newQuote() {
