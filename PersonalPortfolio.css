@@ -157,6 +157,7 @@ a.internal:hover{
 			text-decoration: none;
 			text-align: center;
 			margin-bottom: 3px;
+			cursor: pointer;
 		}
 
 /* Adds a custom style to the video */
@@ -165,26 +166,6 @@ video{
 			margin: 0 auto;
 			align: center;
 			width: 80%;
-		}
-	
-/* Fade animation for the "New Quote, Please!" button. Makes the object fade in and out with a certain color (font and background) within 0.5 seconds */
-.hvr-fade{
-  			display: inline-block;
-  			vertical-align: middle;
-  			-webkit-transform: perspective(1px) translateZ(0);
-  			transform: perspective(1px) translateZ(0);
-  			box-shadow: 0 0 1px transparent;
-  			overflow: hidden;
-  			-webkit-transition-duration: 0.5s;
-  			transition-duration: 0.5s;
-  			-webkit-transition-property: color, background-color;
-  			transition-property: color, background-color;
-		}
-
-.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
-  			background-color: #138D48; /* A light green color */
-  			color: #ffffff; /* White */
-			cursor: pointer;
 		}
 	
 /* Bob animation for the "Beam Me Up, Scotty" button. Makes the object quickly (0.3s) go up 8px, then "bobs" 4px up and down upon hovering over the button */
