@@ -91,7 +91,7 @@ var quotes = [
 	'Who was the guy who first looked at a cow and said \"I think I\'ll drink whatever comes out of these when I squeeze \'em\" <br />-Bill Watterson',
 	'Never knock on death\'s door. Ring the dorrbell then run. He totally hates that <br />-Darynda Jones',
 	'If I\'m walking on thin ice, I might as well dance my way across <br />-Mercedes Lackey',
-	'Oh, you hate your job? Why didn\'t you say so? There\'s a support group for that. It\'s called EVERYBODY, and the meet at the bar <br />-Drew Carey',
+	'Oh, you hate your job? Why didn\'t you say so? There\'s a support group for that. It\'s called EVERYBODY, and they meet at the bar <br />-Drew Carey',
 	'Anybody who says they are a good liar obviously is not, because any legitimately savvy liar would always insist they\'re honest about everything <br />Chuck Klosterman',
 	'If at first you don\'t succeed, destroy all evidence that you tried <br />-Steven Wright',
 	'I\'m not dumb. I just have a command of thoroughly useless information <br />-Bill Watterson',
