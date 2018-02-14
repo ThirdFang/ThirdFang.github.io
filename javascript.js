@@ -120,7 +120,11 @@
 		'The amount of sleep required by the average person is about five minutes more <br />-Max Kauffmann',
 		'There are two ways to handle a woman, and nobody knows either of them <br />-Frank McKinney Hubbard',
 		'Weddings are basically funerals with cake <br />-Rick from \"Rick and Morty\"',
-		'A know-it-all is a person who knows everything except for how annoying he is <br />-Demetri Martin'
+		'A know-it-all is a person who knows everything except for how annoying he is <br />-Demetri Martin',
+		'Some things are exactly as they seem, folks. Killer Whales kill, Pilot Whales wear dark sunglasses. I\'m not sure how the Sperm Whale got his name, but I\'m not getting in the pool <br />-Ron White',
+		'When my time comes, I wanna be buried facedown. That way whoever doesn\'t like me can kiss my ass <br />-Red Foreman from \"That 70\'s Show\"',
+		'Society teaches us that having feelings and cryingis bad and wrong. Well, that\'s baloney, because grief isn\'t wrong. There\'s such a thing as good grief. Just ask Charlie Brown <br />Michael Scott from \"The Office\"',
+		'Sometimes I feel like everyone I work with is an idiot. And by sometimes, I mean all times. All the time. Every of the time <br />-Kevin Malone from \"The Office\"'
 	];
 	
 	var quotes2 = []; // empty array for used quotes
