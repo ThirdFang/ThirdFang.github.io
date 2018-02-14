@@ -14,7 +14,7 @@ html{
    			top: 0;
     			left: 0;
     			background-color: #000000; /* Black */
-    			overflow-y: hidden;
+    			overflow-y: auto;
 		}
 
 /* Style the sidenav links */
