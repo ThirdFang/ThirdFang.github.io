@@ -159,7 +159,20 @@
 		'Thinking is hard work, which is why you don\'t see many people doing it <br />-Sue Grafton',
 		'My opinions may have changed, but not the fact that I\'m right <br />-Ashleigh Brilliant',
 		'Honesty may be the best policy, but it\'s important to remember that apparently, by elimination, dishonesty is the second-best policy <br />-George Carlin',
-		'\"If you want to shoot the general, first shoot the horse\" <br />\"If you wanna shoot the general, then you should just SHOOT THE GENERAL!\" <br />-Ling Yao and Edward Elric from \"Fullmetal Alchemist: Brotherhood\"'
+		'\"If you want to shoot the general, first shoot the horse\" <br />\"If you wanna shoot the general, then you should just SHOOT THE GENERAL!\" <br />-Ling Yao and Edward Elric from \"Fullmetal Alchemist: Brotherhood\"',
+		'Every year, many, many stupid people graduate from college. And if they can do it, so can you <br />-John Green',
+		'The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised <br />-George F. Will',
+		'Everybody\'s got to believe in something. I believe I\'ll have another beer <br />-W.C. Fields',
+		'There is a great need for a sarcasm font <br />-Darynda Jones',
+		'WHoever said the pen is mightier than the sword obviously never encountered automatic weapons <br />-Douglas MacArthur',
+		'Everything here is edible; even I\'m edible. But that, dear children, is cannibalism, and is in fact frowned upon in most societies <br />-Johnny Depp',
+		'I\'d kill for a Nobel Peace Prize <br />-Steven Wright',
+		'Just about everything in this world is easier said than done, with the exception of \"sytemmatically assisting Sisyphus\'s stealth, cyst-susceptible sister,\" which is easier done than said <br />-Lemony Snicket',
+		'Only Irish coffee provides in a single glass all four essential food groups: alcohol, caffeine, sugar and fat <br />-Alex Levine',
+		'All are lunatics, but he who can analyze his delusion is called a philosopher <br />-Ambrose Bierce',
+		'ROFL! What? Are you really rolling on the floor laughing? Well, please stay down there for a sec while I KICK YOUR ASS <br />-David Levithan',
+		'My formula for life is very simple: in the morning, wake up; at night, go to sleep. In between I try and accupy myself as best I can <br />-Cary Grant',
+		'Don\'t mess with a wizard when he\'s wizarding! <br />-Jim Butcher'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
