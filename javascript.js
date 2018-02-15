@@ -144,7 +144,12 @@
 		'I never made a mistake in my life; at least, never one that I couldn\'t explain away afterwards <br />-Rudyard Kipling',
 		'A good night sleep, or a ten minute bawl, or a pint of chocolate ice cream, or all three together, is good medicine <br />-Ray Bradbury',
 		'You can only be in a bad mood for so long before you have to face up to the fact that it isn\'t a bad mood at all; it\'s just your sucky personality <br />-Megan McCafferty',
-		'It\'s now very common to hear people say, \"I\'m rather offended by that.\" As if that gives them certain rights. It\'s actually nothing more...than a whine. \"I find that offensive\". It has no meaning; it has no purpose; it has no reason to be respected as a phrase. \"I am offended by that.\" Well, so fucking what <br />-Stephen Fry'
+		'You have to remember one thing about the will of the people: it wasn\'t that long ago that we were swept away by the Macarena <br />-Jon Stewart',
+		'I find my life is a lot easier the lower I keep my expectations <br />-Bill Watterson',
+		'Telling an introvert to go to a party is like telling a saint to go to Hell <br />-Criss Jami',
+		'An original idea. That can\'t be too hard. The library must be full of them <br />-Stephen Fry',
+		'Jest give me a second. Attempting to give a fuck...Attempting harder to give a fuck...Sorry, there was an error; fuck not given <br />-Suzanne Wright',
+		'We\'re not retreating. We\'re advancing in reverse <br />-Skulduggery Pleasant from \"Skulduggery Pleaseant\" series'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
