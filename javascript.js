@@ -133,12 +133,12 @@
 		'I went to a bookstore and asked the saleswoman, "Where\'s the self-help section?\" She said if she told me, it would defeat the purpose <br />-George Carlin',
 		'[There\'s no \"I\" in team, Grif] Oh, yeah? Well, there\'s no \"U\", either. So I guess if \"I\'m\" not on the team and \"you\'re\" not on the team, nobody\'s on the goddamned team! The team sucks! <br />-Grif from \"Red vs Blue\"',
 		'Some people have no idea what they\'re doing, and a lot of them are really good at it <br />-George Carlin',
-		'When you\'re not looking, somebody\'ll lsneak up and write \"Fuck you\" right under your nose <br />-J.D. Salinger',
+		'When you\'re not looking, somebody\'ll sneak up and write \"Fuck you\" right under your nose <br />-J.D. Salinger',
 		'As far as I\'m concerned, if something is so complicated that you can\'t explain it in 10 seconds, then it\'s probably not worth knowing anyway <br />-Bill Watterson',
 		'One morning I shot an elephant in my pajamas. How he got in my pajamas I\'ll never know <br />-Groucho Marx',
 		'When all else fails, there\'s always delusion <br />-Conan O\'Brien',
 		'It\'s not denial. I\'m just selective about the reality I accept <br />-Bill Watterson',
-		'When I was growing up I always wanted to be someone. Now I realie I should have been more specific <br />-Lily Tomlin',
+		'When I was growing up I always wanted to be someone. Now I realize I should have been more specific <br />-Lily Tomlin',
 		'The biggest challenge after success is shutting up about it <br />-Criss Jami',
 		'I like nonsense, it wakes up the brain cells <br />-Dr. Seuss',
 		'I never made a mistake in my life; at least, never one that I couldn\'t explain away afterwards <br />-Rudyard Kipling',
@@ -148,8 +148,18 @@
 		'I find my life is a lot easier the lower I keep my expectations <br />-Bill Watterson',
 		'Telling an introvert to go to a party is like telling a saint to go to Hell <br />-Criss Jami',
 		'An original idea. That can\'t be too hard. The library must be full of them <br />-Stephen Fry',
-		'Jest give me a second. Attempting to give a fuck...Attempting harder to give a fuck...Sorry, there was an error; fuck not given <br />-Suzanne Wright',
-		'We\'re not retreating. We\'re advancing in reverse <br />-Skulduggery Pleasant from \"Skulduggery Pleaseant\" series'
+		'Just give me a second. Attempting to give a fuck...Attempting harder to give a fuck...Sorry, there was an error; fuck not given <br />-Suzanne Wright',
+		'We\'re not retreating. We\'re advancing in reverse <br />-Skulduggery Pleasant from \"Skulduggery Pleaseant\" series',
+		'We must have pie. Streess cannot exist in the precense of a pie <br />-David Mamet',
+		'If you had to identify, in one word, the reason why the human race has not achieved, and never will achieve , its full potential, that word would be \"meetings\" <br />-Dave Barry',
+		'I\'ve been accused of vulgarity. I say that\'s bullshit <br />-Mel Brooks',
+		'You know on TV when there\'s one of those awkward, shocking moments and all you hear are the crickets in the background? Well chirp fucking chirp...this is one of those moments <br />-Emma Chase',
+		'When in doubt, look intelligent <br />-Garrison Keillor',
+		'Learn from yesterday, live for today, look to tomorrow, rest this afternoon <br />-Charles M. Schulz',
+		'Thinking is hard work, which is why you don\'t see many people doing it <br />-Sue Grafton',
+		'My opinions may have changed, but not the fact that I\'m right <br />-Ashleigh Brilliant',
+		'Honesty may be the best policy, but it\'s important to remember that apparently, by elimination, dishonesty is the second-best policy <br />-George Carlin',
+		'If you want to shoot the general, first shoot the horse <br />If you wanna shoot the general, then you should just SHOOT THE GENERAL! <br />-Ling Yao and Edward Elric from \"Fullmetal Alchemist: Brotherhood\"'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
