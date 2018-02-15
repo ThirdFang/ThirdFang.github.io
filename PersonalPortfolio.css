@@ -70,7 +70,7 @@ li span{
 			padding-top: 5px;
 			padding-bottom: 5px;
 			font-size: 16px;
-			font-family: "Supermercado One", cursive; /* Cursive fallback font in case the "Supermercado One" fails to load from the Google Fonts style sheet */
+			font-family: "Amethysta", cursive; /* Cursive fallback font in case the "Supermercado One" fails to load from the Google Fonts style sheet */
 			text-align: center;
 		}
 
