@@ -101,7 +101,7 @@
 		'I\'m not dumb. I just have a command of thoroughly useless information <br />-Bill Watterson',
 		'I think I am, therefore, I am...I think <br />-George Carlin',
 		'I believe in equality. Equality for everybody. No matter how stupid they are or how superior I am to them <br />-Steve Martin',
-		'When I get sad, I stop being say and be awesome instead <br />-Barney Stinson from \"How I Met Your Mother\"',
+		'When I get sad, I stop being sad and be awesome instead <br />-Barney Stinson from \"How I Met Your Mother\"',
 		'You are only young once, but you can stay immature indefinitely <br />-Ogden Nash',
 		'To alcohol! The cause of, and solution to, all of life\'s problems <br />-Matt Groening',
 		'The length of a film should be directly related to the endurance of the human bladder <br />-Alfred Hitchcock',
