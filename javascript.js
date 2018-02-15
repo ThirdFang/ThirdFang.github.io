@@ -159,7 +159,7 @@
 		'Thinking is hard work, which is why you don\'t see many people doing it <br />-Sue Grafton',
 		'My opinions may have changed, but not the fact that I\'m right <br />-Ashleigh Brilliant',
 		'Honesty may be the best policy, but it\'s important to remember that apparently, by elimination, dishonesty is the second-best policy <br />-George Carlin',
-		'If you want to shoot the general, first shoot the horse <br />If you wanna shoot the general, then you should just SHOOT THE GENERAL! <br />-Ling Yao and Edward Elric from \"Fullmetal Alchemist: Brotherhood\"'
+		'\"If you want to shoot the general, first shoot the horse\" <br />\"If you wanna shoot the general, then you should just SHOOT THE GENERAL!\" <br />-Ling Yao and Edward Elric from \"Fullmetal Alchemist: Brotherhood\"'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
