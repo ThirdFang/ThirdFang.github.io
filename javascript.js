@@ -96,7 +96,7 @@
 		'Never knock on death\'s door. Ring the doorbell then run. He totally hates that <br />-Darynda Jones',
 		'If I\'m walking on thin ice, I might as well dance my way across <br />-Mercedes Lackey',
 		'Oh, you hate your job? Why didn\'t you say so? There\'s a support group for that. It\'s called EVERYBODY, and the meet at the bar <br />-Drew Carey',
-		'Anybody who says they are a good liar obviously is not, because any legitimately savvy liar would always insist they\'re honest about everything <br />Chuck Klosterman',
+		'Anybody who says they are a good liar obviously is not, because any legitimately savvy liar would always insist they\'re honest about everything <br />-Chuck Klosterman',
 		'If at first you don\'t succeed, destroy all evidence that you tried <br />-Steven Wright',
 		'I\'m not dumb. I just have a command of thoroughly useless information <br />-Bill Watterson',
 		'I think I am, therefore, I am...I think <br />-George Carlin',
