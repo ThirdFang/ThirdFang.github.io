@@ -12,7 +12,7 @@
 		'There\'s a very fine line between not listening and not caring. I like to think I walk that line every day of my life <br />-Church from \"Red vs Blue\"',
 		'Procrastination is the art of keeping up with yesterday <br />-Don Marquis',
 		'I love deadlines. I like the whooshing sound they make as they fly by <br />-Douglas Adams',
-		'Weather forecast for tonight: Dark. Continued dar overnight, with widely scattered light by morning<br />-George Carlin',
+		'Weather forecast for tonight: Dark. Continued dark overnight, with widely scattered light by morning<br />-George Carlin',
 		'Isn\'t a bit unnerving that doctors call what they do \"Practice\"<br />-George Carlin',
 		'If two wrongs don\'t make a right, try three <br />-Laurence J. Peter',
 		'My life needs more editing <br />-Mort Sahl',
@@ -150,8 +150,8 @@
 		'An original idea. That can\'t be too hard. The library must be full of them <br />-Stephen Fry',
 		'Just give me a second. Attempting to give a fuck...Attempting harder to give a fuck...Sorry, there was an error; fuck not given <br />-Suzanne Wright',
 		'We\'re not retreating. We\'re advancing in reverse <br />-Skulduggery Pleasant from \"Skulduggery Pleaseant\" series',
-		'We must have pie. Streess cannot exist in the precense of a pie <br />-David Mamet',
-		'If you had to identify, in one word, the reason why the human race has not achieved, and never will achieve , its full potential, that word would be \"meetings\" <br />-Dave Barry',
+		'We must have pie. Stress cannot exist in the presence of a pie <br />-David Mamet',
+		'If you had to identify, in one word, the reason why the human race has not achieved, and never will achieve, its full potential, that word would be \"meetings\" <br />-Dave Barry',
 		'I\'ve been accused of vulgarity. I say that\'s bullshit <br />-Mel Brooks',
 		'You know on TV when there\'s one of those awkward, shocking moments and all you hear are the crickets in the background? Well chirp fucking chirp...this is one of those moments <br />-Emma Chase',
 		'When in doubt, look intelligent <br />-Garrison Keillor',
@@ -180,5 +180,3 @@
 		document.getElementById("send").innerHTML = q;
 	}
 })();
-		
-		
