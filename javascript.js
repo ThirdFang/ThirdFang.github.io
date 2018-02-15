@@ -125,13 +125,26 @@
 		'A know-it-all is a person who knows everything except for how annoying he is <br />-Demetri Martin',
 		'Some things are exactly as they seem, folks. Killer Whales kill, Pilot Whales wear dark sunglasses. I\'m not sure how the Sperm Whale got his name, but I\'m not getting in the pool <br />-Ron White',
 		'When my time comes, I wanna be buried facedown. That way whoever doesn\'t like me can kiss my ass <br />-Red Foreman from \"That 70\'s Show\"',
-		'Society teaches us that having feelings and cryingis bad and wrong. Well, that\'s baloney, because grief isn\'t wrong. There\'s such a thing as good grief. Just ask Charlie Brown <br />Michael Scott from \"The Office\"',
+		'Society teaches us that having feelings and crying is bad and wrong. Well, that\'s baloney, because grief isn\'t wrong. There\'s such a thing as good grief. Just ask Charlie Brown <br />Michael Scott from \"The Office\"',
 		'Sometimes I feel like everyone I work with is an idiot. And by sometimes, I mean all times. All the time. Every of the time <br />-Kevin Malone from \"The Office\"',
 		'I never lie. I believe everything I say, so it\'s not a lie <br />-Mark Wahlberg',
 		'The message \"Bad command or file name\" is as informative as \"If you don\'t know why I\'m mad at you, they I\'m certainly not going to tell you <br />-Unknown',
 		'\"Meow\" means \"woof\" in cat <br />-George Carlin',
 		'I went to a bookstore and asked the saleswoman, "Where\'s the self-help section?\" She said if she told me, it would defeat the purpose <br />-George Carlin',
-		'[There\'s no \"I\" in team, Grif] Oh, yeah? Well, there\'s no \"U\", either. So I guess if \"I\'m\" not on the team and \"you\'re\" not on the team, nobody\'s on the goddamned team! The team sucks! <br />-Grif from \"Red vs Blue\"'
+		'[There\'s no \"I\" in team, Grif] Oh, yeah? Well, there\'s no \"U\", either. So I guess if \"I\'m\" not on the team and \"you\'re\" not on the team, nobody\'s on the goddamned team! The team sucks! <br />-Grif from \"Red vs Blue\"',
+		'Some people have no idea what they\'re doing, and a lot of them are really good at it <br />-George Carlin',
+		'When you\'re not looking, somebody\'ll lsneak up and write \"Fuck you\" right under your nose <br />-J.D. Salinger',
+		'As far as I\'m concerned, if something is so complicated that you can\'t explain it in 10 seconds, then it\'s probably not worth knowing anyway <br />-Bill Watterson',
+		'One morning I shot an elephant in my pajamas. How he got in my pajamas I\'ll never know <br />-Groucho Marx',
+		'When all else fails, there\'s always delusion <br />-Conan O\'Brien',
+		'It\'s not denial. I\'m just selective about the reality I accept <br />-Bill Watterson',
+		'When I was growing up I always wanted to be someone. Now I realie I should have been more specific <br />-Lily Tomlin',
+		'The biggest challenge after success is shutting up about it <br />-Criss Jami',
+		'I like nonsense, it wakes up the brain cells <br />-Dr. Seuss',
+		'I never made a mistake in my life; at least, never one that I couldn\'t explain away afterwards <br />-Rudyard Kipling',
+		'A good night sleep, or a ten minute bawl, or a pint of chocolate ice cream, or all three together, is good medicine <br />-Ray Bradbury',
+		'You can only be in a bad mood for so long before you have to face up to the fact that it isn\'t a bad mood at all; it\'s just your sucky personality <br />-Megan McCafferty',
+		'It\'s now very common to hear people say, \"I\'m rather offended by that.\" As if that gives them certain rights. It\'s actually nothing more...than a whine. \"I find that offensive\". It has no meaning; it has no purpose; it has no reason to be respected as a phrase. \"I am offended by that.\" Well, so fucking what <br />-Stephen Fry'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
