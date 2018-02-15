@@ -1,6 +1,8 @@
+/* This function is used for providing quotes once the "More Quotes, Please" button from the index is clicked. One array (quotes) holds all the quotes, while the other (usedQuotes) is the container for used quotes. Once a quote has been displayed, it will move into the usedQuotes array, until all quotes have been used. Once all quotes have been used and moved to the usedQuotes array, the IF statement activates, and copies all the quotes from the usedQuotes array to the quotes array, and then makes the usedQuotes array empty again. The quotes are displayed randomly from the quotes array. There is a chance (that decreases with each new addition to the quotes array) that a quote can be displayed twice   */
+
 (function() {
 
-	var quotes1 = [
+	var quotes = [
 
 		'I don\'t have the solution...But I certainly do admire the problem <br />-Ashleigh Brilliant',
 		'A day without sunshine is like, you know, night <br />-Steve Martin',
@@ -124,20 +126,25 @@
 		'Some things are exactly as they seem, folks. Killer Whales kill, Pilot Whales wear dark sunglasses. I\'m not sure how the Sperm Whale got his name, but I\'m not getting in the pool <br />-Ron White',
 		'When my time comes, I wanna be buried facedown. That way whoever doesn\'t like me can kiss my ass <br />-Red Foreman from \"That 70\'s Show\"',
 		'Society teaches us that having feelings and cryingis bad and wrong. Well, that\'s baloney, because grief isn\'t wrong. There\'s such a thing as good grief. Just ask Charlie Brown <br />Michael Scott from \"The Office\"',
-		'Sometimes I feel like everyone I work with is an idiot. And by sometimes, I mean all times. All the time. Every of the time <br />-Kevin Malone from \"The Office\"'
+		'Sometimes I feel like everyone I work with is an idiot. And by sometimes, I mean all times. All the time. Every of the time <br />-Kevin Malone from \"The Office\"',
+		'I never lie. I believe everything I say, so it\'s not a lie <br />-Mark Wahlberg',
+		'The message \"Bad command or file name\" is as informative as \"If you don\'t know why I\'m mad at you, they I\'m certainly not going to tell you <br />-Unknown',
+		'\"Meow\" means \"woof\" in cat <br />-George Carlin',
+		'I went to a bookstore and asked the saleswoman, "Where\'s the self-help section?\" She said if she told me, it would defeat the purpose <br />-George Carlin',
+		'[There\'s no \"I\" in team, Grif] Oh, yeah? Well, there\'s no \"U\", either. So I guess if \"I\'m\" not on the team and \"you\'re\" not on the team, nobody\'s on the goddamned team! The team sucks! <br />-Grif from \"Red vs Blue\"'
 	];
 	
-	var quotes2 = []; // empty array for used quotes
+	var usedQuotes = []; // empty array for used quotes
 	
 	document.getElementById('retrieve').onclick = function() {
-		var indexToSplice = Math.floor(Math.random() * quotes1.length);
-		var spliceQuote = quotes1.splice(indexToSplice, 1);
-		quotes2.push(spliceQuote);
+		var indexToSplice = Math.floor(Math.random() * quotes.length);
+		var spliceQuote = quotes.splice(indexToSplice, 1);
+		usedQuotes.push(spliceQuote);
 		print(spliceQuote);
 		
-		if (quotes1.length == 0) {
-			quotes1 = quotes2;
-			quotes2 = [];
+		if (quotes.length == 0) {
+			quotes = usedQuotes;
+			usedQuotes = [];
 		}
 	};
 	
