@@ -204,6 +204,7 @@
 		'I\'m really smart sometimes. But only sometimes <br />-Gavin Free',
 		'I don\'t do ups. Ups defy gravity. Gravity is a law. I obey the law <br />-John Pinette',
 		'To be sure of hitting the target, shoot first, and call whatever you hit the target <br />-Ashleigh Brilliant',
+		'When you go into court, you are putting your fate into the hands of twelve people who aren\'t smart enough to get out of jury duty <br />-Norm Crosby'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
