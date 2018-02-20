@@ -235,7 +235,12 @@
 		'The \"Five Second Rule\" has many variations, including the \"Three Second Rule\", the \"Seven Second Rule\", and the extremely handy and versatile \"However Long It Takes Me to Pick Up This Food Rule\" <br />-Neil Pasricha',
 		'A good story should provoke discussion, debate, argument...and the occasional barfight <br />-J. Michael Straczynski',
 		'So tell me, what\'s it like to live in a haze of constant stupidity? <br />-Hiei from \"Yu Yu Hakusho\"',
-		'I you removed all the arteries, veins, & capillaries from a person\'s body, and tied them end-to-end...the person will die <br />-Neil deGrasse Tyson'
+		'I you removed all the arteries, veins, & capillaries from a person\'s body, and tied them end-to-end...the person will die <br />-Neil deGrasse Tyson',
+		'Death is life\'s way of telling you you\'ve been fired <br />-R.Geis',
+		'Time is a great teacher, but unfortunately it kills all its pupils <br />-Louis Hector Berlioz',
+		'Think of how stupid the average person is, and realize half of them are stupider than that <br />-George Carlin',
+		'Sometimes, when I\'m feeling down because nothing seems to be going right, I like to take a home pregnancy test. Then I can say, \"Hey, at least I\'m not pregnant\" <br />-Daniel Tosh',
+		'You know what a cubicle basically says? It basically says, like, \"You know what? We don\'t think you\'re smart enough for an office, but we don\'t want you to look at anybody\" <br />-Bill Burr'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
