@@ -125,7 +125,7 @@
 		'A know-it-all is a person who knows everything except for how annoying he is <br />-Demetri Martin',
 		'Some things are exactly as they seem, folks. Killer Whales kill, Pilot Whales wear dark sunglasses. I\'m not sure how the Sperm Whale got his name, but I\'m not getting in the pool <br />-Ron White',
 		'When my time comes, I wanna be buried facedown. That way whoever doesn\'t like me can kiss my ass <br />-Red Foreman from \"That 70\'s Show\"',
-		'Society teaches us that having feelings and crying is bad and wrong. Well, that\'s baloney, because grief isn\'t wrong. There\'s such a thing as good grief. Just ask Charlie Brown <br />Michael Scott from \"The Office\"',
+		'Society teaches us that having feelings and crying is bad and wrong. Well, that\'s baloney, because grief isn\'t wrong. There\'s such a thing as good grief. Just ask Charlie Brown <br />-Michael Scott from \"The Office\"',
 		'Sometimes I feel like everyone I work with is an idiot. And by sometimes, I mean all times. All the time. Every of the time <br />-Kevin Malone from \"The Office\"',
 		'I never lie. I believe everything I say, so it\'s not a lie <br />-Mark Wahlberg',
 		'The message \"Bad command or file name\" is as informative as \"If you don\'t know why I\'m mad at you, they I\'m certainly not going to tell you <br />-Unknown',
