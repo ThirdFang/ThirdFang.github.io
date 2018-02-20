@@ -235,7 +235,7 @@
 		'The \"Five Second Rule\" has many variations, including the \"Three Second Rule\", the \"Seven Second Rule\", and the extremely handy and versatile \"However Long It Takes Me to Pick Up This Food Rule\" <br />-Neil Pasricha',
 		'A good story should provoke discussion, debate, argument...and the occasional barfight <br />-J. Michael Straczynski',
 		'So tell me, what\'s it like to live in a haze of constant stupidity? <br />-Hiei from \"Yu Yu Hakusho\"',
-		'IF you removed all the arteries, veins, & capillaries from a person\'s body, and tied them end-to-end...the person will die <br />-Neil deGrasse Tyson'
+		'I you removed all the arteries, veins, & capillaries from a person\'s body, and tied them end-to-end...the person will die <br />-Neil deGrasse Tyson'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
