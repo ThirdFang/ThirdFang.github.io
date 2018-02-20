@@ -215,7 +215,7 @@
 		'Haven\'t you noticed that every time the government fucks up, McDonald\'s has a new sandwich? <br />-Bill Burr',
 		'The next time you have a thought...let it go <br />-Ron White',
 		'There\'s a few things in life that are as satisfying as hitting a bird with a car <br />-Jeremy Dooley',
-		'If I remain perfectly still, it won\'t be able to see me <br />*Eaten by a T-Rex* <br />-Mhmmmm. You know what, I think I blinked <br />-Michael Jones from \"Rage Quit - Turok\"'
+		'If I remain perfectly still, it won\'t be able to see me <br />*Eaten by a T-Rex* <br />Mhmmmm. You know what, I think I blinked <br />-Michael Jones from \"Rage Quit - Turok\"'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
