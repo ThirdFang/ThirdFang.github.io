@@ -164,7 +164,7 @@
 		'The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised <br />-George F. Will',
 		'Everybody\'s got to believe in something. I believe I\'ll have another beer <br />-W.C. Fields',
 		'There is a great need for a sarcasm font <br />-Darynda Jones',
-		'WHoever said the pen is mightier than the sword obviously never encountered automatic weapons <br />-Douglas MacArthur',
+		'Whoever said the pen is mightier than the sword obviously never encountered automatic weapons <br />-Douglas MacArthur',
 		'Everything here is edible; even I\'m edible. But that, dear children, is cannibalism, and is in fact frowned upon in most societies <br />-Johnny Depp',
 		'I\'d kill for a Nobel Peace Prize <br />-Steven Wright',
 		'Just about everything in this world is easier said than done, with the exception of \"sytemmatically assisting Sisyphus\'s stealth, cyst-susceptible sister,\" which is easier done than said <br />-Lemony Snicket',
@@ -215,7 +215,27 @@
 		'Haven\'t you noticed that every time the government fucks up, McDonald\'s has a new sandwich? <br />-Bill Burr',
 		'The next time you have a thought...let it go <br />-Ron White',
 		'There\'s a few things in life that are as satisfying as hitting a bird with a car <br />-Jeremy Dooley',
-		'If I remain perfectly still, it won\'t be able to see me <br />*Eaten by a T-Rex* <br />Mhmmmm. You know what, I think I blinked <br />-Michael Jones from \"Rage Quit\"'
+		'If I remain perfectly still, it won\'t be able to see me <br />*Eaten by a T-Rex* <br />Mhmmmm. You know what, I think I blinked <br />-Michael Jones from \"Rage Quit\"',
+		'Yeah man, I tell ya what, man. That dang ol\' Internet, man. You just go on there and point and click. Talk about w-w-w-dot-w-com. An\'s lotsa nekkid chicks on there, man. Click. Click. Click. Click. Click. It\'s real easy, man <br />-Boomhauer from \"King of the Hill\"',
+		'If your sorority has to sell jam to buy beer, you\'re drinking too much <br />-Hank Hill from \"King of the Hill\"',
+		'Like I always say, there\'s no \"I\" in \"team\". There is a \"me,\" though, if you jumble it up <br />-Greggory House from \"House\"',
+		'Ah, my birthday. Normally I\'d put on a festive hat and celebrate the fact that the Earth has circled the Sun one more time; I really didn\'t thing it was going to make it this year, but darn it if it wasn\'t the little planet that could all over again <br />-Greggory House from \"House\"',
+		'Do I get bonus points if I act like I care <br />-Greggory House from \"House\"',
+		'There\'s a reason we don\'t let kids vote, or drink, or work in salt mines. They\'re idiots! Twenty year olds fall in and out of love more often than they change their oil filters. Which they should do more often <br />-Greggory House from \"House\"',
+		'Never in the history of calm down has anyone calmed down by being told to calm down <br />-Unknown',
+		'The power of friendship is bullshit <br />-Michael Jones',
+		'Roses are red, violets are blue, I have five fingers, the middle one is for you <br />-Gena Showalter',
+		'If it weren\'t for physics and law enforcement, I\'d be unstoppable <br />-Darynda Jones',
+		'Just relax and breathe through your ass <br />-Lewis Black',
+		'Paperwork wouldn\'t be so bad if it weren\'t for all the paper. And the work <br />-Darynda Jones',
+		'\"Sort of\" is such a harmless thing to say...sort of. It\'s just a filler. Sort of...it doesn\'t really mean anything. But after certain things, sort of means everything. Like...after \"I love you\"...or \"You\'re going to live\"...or \"It\'s a boy!\" <br />-Demetri Martin',
+		'I sometimes give myself excellent advice. Occasionally, I even listen to it <br />-Jim Butcher',
+		'The table of elements does not contain one of the most powerful elements that make up our world, and that is the element of surprise <br />-Lemony Snicket',
+		'They say money talks, but all mine ever says is \"good-bye scuker\" <br />-Jill Shalvis',
+		'The \"Five Second Rule\" has many variations, including the \"Three Second Rule\", the \"Seven Second Rule\", and the extremely handy and versatile \"However Long It Takes Me to Pick Up This Food Rule\" <br />-Neil Pasricha',
+		'A good story should provoke discussion, debate, argument...and the occasional barfight <br />-J. Michael Straczynski',
+		'So tell me, what\'s it like to live in a haze of constant stupidity? <br />-Hiei from \"Yu Yu Hakusho\"',
+		'IF you removed all the arteries, veins, & capillaries from a person\'s body, and tied them end-to-end...the person will die <br />-Neil deGrasse Tyson'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
