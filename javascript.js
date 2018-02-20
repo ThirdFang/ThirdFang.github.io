@@ -204,7 +204,18 @@
 		'I\'m really smart sometimes. But only sometimes <br />-Gavin Free',
 		'I don\'t do ups. Ups defy gravity. Gravity is a law. I obey the law <br />-John Pinette',
 		'To be sure of hitting the target, shoot first, and call whatever you hit the target <br />-Ashleigh Brilliant',
-		'When you go into court, you are putting your fate into the hands of twelve people who aren\'t smart enough to get out of jury duty <br />-Norm Crosby'
+		'When you go into court, you are putting your fate into the hands of twelve people who aren\'t smart enough to get out of jury duty <br />-Norm Crosby',
+		'My fake plants died because I did not pretend to water them <br />-Mitch Hedberg',
+		'Dachsund: A half-a-dog high and a dog-and-a-half long <br />-H.L. Mencken',
+		'If at first you don\'t succeed, failure may be your style <br />-Quentin Crisp',
+		'Accept who you are. Unless you\'re a serial killer <br />-Ellen DeGeneres',
+		'Polite conversation is rarely either <br />-Fran Lebowitz',
+		'Anything worth doing is worth doing slowly <br />-Mae West',
+		'I have a lot of beliefs and I live by none of them <br />-Louis C. K.',
+		'Haven\'t you noticed that every time the government fucks up, McDonald\'s has a new sandwich? <br />-Bill Burr',
+		'The next time you have a thought...let it go <br />-Ron White',
+		'There\'s a few things in life that are as satisfying as hitting a bird with a car <br />-Jeremy Dooley',
+		'If I remain perfectly still, it won\'t be able to see me <br />*Eaten by a T-Rex* <br />-Mhmmmm. You know what, I think I blinked <br />-Michael Jones from \"Rage Quit - Turok\"'
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
