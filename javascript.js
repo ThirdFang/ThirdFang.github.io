@@ -239,7 +239,12 @@
 		'Time is a great teacher, but unfortunately it kills all its pupils <br />-Louis Hector Berlioz',
 		'Think of how stupid the average person is, and realize half of them are stupider than that <br />-George Carlin',
 		'Sometimes, when I\'m feeling down because nothing seems to be going right, I like to take a home pregnancy test. Then I can say, \"Hey, at least I\'m not pregnant\" <br />-Daniel Tosh',
-		'You know what a cubicle basically says? It basically says, like, \"You know what? We don\'t think you\'re smart enough for an office, but we don\'t want you to look at anybody\" <br />-Bill Burr'
+		'You know what a cubicle basically says? It basically says, like, \"You know what? We don\'t think you\'re smart enough for an office, but we don\'t want you to look at anybody\" <br />-Bill Burr',
+		'Whatever you do, always give 100%. Unless you\'re donating blood <br />-Bill Murray',
+		'Just beat my record for most consecutive days without dying <br />-Bill Murray',
+		'People have an annoying habit of remembering things they shouldn\'t <br />-Christopher Paolini',
+		'half of seeming clever is keeping you mouth shut at the right times <br />-Patrick Rothfuss',
+		'Employee of the month is a good example of how somebody can be both a winner and a loser at the same time <br />-Demetri Martin'
 
 	];
 	
