@@ -244,7 +244,30 @@
 		'Just beat my record for most consecutive days without dying <br />-Bill Murray',
 		'People have an annoying habit of remembering things they shouldn\'t <br />-Christopher Paolini',
 		'half of seeming clever is keeping you mouth shut at the right times <br />-Patrick Rothfuss',
-		'Employee of the month is a good example of how somebody can be both a winner and a loser at the same time <br />-Demetri Martin'
+		'Employee of the month is a good example of how somebody can be both a winner and a loser at the same time <br />-Demetri Martin',
+		'If it doesn\'t work, at least it will be an interesting train wreck <br />-Craig Ferguson',
+		'I\'m not crazy, but I suspect the voices in my head are <br />-Kelli Sullivan',
+		'Sometimes you just gotta wear the tinfoil hat <br />-Gary Hopkins',
+		'The grass is always greener when it\'s covered money <br />-Craig Benzine',
+		'Even betting against myself, I could always find a way to lose <br />-Jonathan Tropper',
+		'Basically, I have two speeds...Hostile or smart-aleck. Your choice <br />-James Patterson',
+		'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac <br />-George Carlin',
+		'I\'m not always a smartass. Sometimes I\'m just an ass',
+		'Patience - A minor form of despair, disguised as a virtue <br />-Ambrose Bierce',
+		'Being human totally sucks most of the time. Video games are the only thing that make life bearable <br />-Ernest Cline',
+		'Could you put that in a memo and entitle it \"Shit I already know\" <br />-Sarge from \"Red vs Blue\"',
+		'All my life I\'ve had girls tell me, \"Not if you were the last man on Earth\". Well, that may be true, but let\'s see what happens wen I\'m the last man on Earth with a sweet ass, pimped out ride, bitch! <br />-Tucker from \"Red vs Blue\"',
+		'Ah, nerd love. It is a beautiful thing, while also being an object of mockery and hilarity for those of us who are more sophisticated <br />-Cassandra Clare',
+		'Everywhere is within walking distance if you have the time <br />-Steven Wright',
+		'I intend to live forever. So far, so good <br />-Steven Wright',
+		'I\'ve been accused of vulgarity. I say that\'s bullshit <br />-Mel Brooks',
+		'To achieve great things, two things are needed: a plan and not quite enough time <br />-Leonard Bernstein',
+		'The face of a child can say it all, especially the mouth part <br />-Jack Handey',
+		'The less I know about other people\'s affairs, the happier I am. I\'m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes <br />-Ron Swanson from \"Parks and Recreation\"',
+		'Behind every successful man is me, smiling and taking partial credit <br />-Tom Haverford from \"Parks and Recreation\"',
+		'Any dog under fifty pounds is a cat and cats are useless <br />-Ron Swanson from \"Parks and Recreation\"',
+		'There\'s only one thing I hate more than lying: skim milk. Which is water that\'s lying about being milk <br />-Ron Swanson',
+		'The three branches of government: military, corporate, and Hollywood <br />-Hyde from \"That 70\'s Show\"'
 
 	];
 	
