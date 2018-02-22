@@ -267,7 +267,10 @@
 		'Behind every successful man is me, smiling and taking partial credit <br />-Tom Haverford from \"Parks and Recreation\"',
 		'Any dog under fifty pounds is a cat and cats are useless <br />-Ron Swanson from \"Parks and Recreation\"',
 		'There\'s only one thing I hate more than lying: skim milk. Which is water that\'s lying about being milk <br />-Ron Swanson',
-		'The three branches of government: military, corporate, and Hollywood <br />-Hyde from \"That 70\'s Show\"'
+		'The three branches of government: military, corporate, and Hollywood <br />-Hyde from \"That 70\'s Show\"',
+		'That\'s a headline you never want to see. \"Captain Murderstab has been released on parole\" <br />-Brandon Farmahini from \"Achievement Hunter\"',
+		'Okay, the chickens are having some kind of festival dance around the baby. I thing they\'re gonna sacrifice it to the Chicken Lord <br />-Ryan Haywood from \"Achievement Hunter\"',
+		'The best part of winning is knowing that you all lost <br />-Ryan Haywood from \"Achievement Hunter\"'
 
 	];
 	
