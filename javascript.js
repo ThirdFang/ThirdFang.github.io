@@ -270,7 +270,8 @@
 		'The three branches of government: military, corporate, and Hollywood <br />-Hyde from \"That 70\'s Show\"',
 		'That\'s a headline you never want to see. \"Captain Murderstab has been released on parole\" <br />-Brandon Farmahini from \"Achievement Hunter\"',
 		'Okay, the chickens are having some kind of festival dance around the baby. I thing they\'re gonna sacrifice it to the Chicken Lord <br />-Ryan Haywood from \"Achievement Hunter\"',
-		'The best part of winning is knowing that you all lost <br />-Ryan Haywood from \"Achievement Hunter\"'
+		'The best part of winning is knowing that you all lost <br />-Ryan Haywood from \"Achievement Hunter\"',
+		'It\'s not a stereotype if it\'s always true <br />-Daniel Tosh'
 
 	];
 	
