@@ -117,7 +117,7 @@
 		'No matter how bad things seem, they can\'t be any better, and they can\'t be any worse, because that\'s the way things are, and you better get used to it, Nancy. Quit your bitchin\' <br />-Church from \"Red vs Blue\"',
 		'Ahh, the middle finger. The Most communicative of fingers <br />-Guybrush Threepwood from the \"Monkey Island\" series',
 		'If fucking is up power, I should be the Hulk by now <br />-Richard Kadrey',
-		'Two wrongs don\'t make a right, but they make a good excuse <br />-Thomas Szasz',Fw
+		'Two wrongs don\'t make a right, but they make a good excuse <br />-Thomas Szasz',
 		'I like work: it fascinates me. I can sit and look at it for hours <br />-Jerome K. Jerome',
 		'The amount of sleep required by the average person is about five minutes more <br />-Max Kauffmann',
 		'There are two ways to handle a woman, and nobody knows either of them <br />-Frank McKinney Hubbard',
