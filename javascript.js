@@ -297,7 +297,8 @@
 		'It\'s spider season. Every year, right about now, thousands of the godless eight-legged bastards emerge from the bowels of hell (or the garden, whichever\'s nearest) with the sole intention of tormenting humankind <br />-Charlie Brooker',
 		'We are all a little weird. And we like to think that there is always someone weirder. I mean, I am sure some of you are looking at me and thinking, \"Well, at least I am not as weird as you,\" and I am thinking, \"Well, at least I am not as weird as the people in the loony bin," and the people in the loony bin are thinking, \"Well, at least I am an orange\" <br />-Jim Gaffigan',
 		'Slap-stick comedy is really funny, unless you\'re the one getting slapped with the stick <br />-Carroll Bryant',
-		'SOre loser? You bet your fuckin\' ass! What on earth is wrong with being a sore loser? It shows you cared about whatever the contest was in the first place. Fuck losing graciously--that\'s for chumps. And losers, by the way <br />-George Carlin'
+		'Sore loser? You bet your fuckin\' ass! What on earth is wrong with being a sore loser? It shows you cared about whatever the contest was in the first place. Fuck losing graciously--that\'s for chumps. And losers, by the way <br />-George Carlin',
+		'I had a ream about you last night...shortly after I woke up screaming in terror <br />-Amy Sommers'
 		
 	];
 	
