@@ -117,7 +117,7 @@
 		'No matter how bad things seem, they can\'t be any better, and they can\'t be any worse, because that\'s the way things are, and you better get used to it, Nancy. Quit your bitchin\' <br />-Church from \"Red vs Blue\"',
 		'Ahh, the middle finger. The Most communicative of fingers <br />-Guybrush Threepwood from the \"Monkey Island\" series',
 		'If fucking is up power, I should be the Hulk by now <br />-Richard Kadrey',
-		'Two wrongs don\'t make a right, but they make a good excuse <br />-Thomas Szasz',
+		'Two wrongs don\'t make a right, but they make a good excuse <br />-Thomas Szasz',Fw
 		'I like work: it fascinates me. I can sit and look at it for hours <br />-Jerome K. Jerome',
 		'The amount of sleep required by the average person is about five minutes more <br />-Max Kauffmann',
 		'There are two ways to handle a woman, and nobody knows either of them <br />-Frank McKinney Hubbard',
@@ -219,6 +219,7 @@
 		'Yeah man, I tell ya what, man. That dang ol\' Internet, man. You just go on there and point and click. Talk about w-w-w-dot-w-com. An\'s lotsa nekkid chicks on there, man. Click. Click. Click. Click. Click. It\'s real easy, man <br />-Boomhauer from \"King of the Hill\"',
 		'If your sorority has to sell jam to buy beer, you\'re drinking too much <br />-Hank Hill from \"King of the Hill\"',
 		'Like I always say, there\'s no \"I\" in \"team\". There is a \"me,\" though, if you jumble it up <br />-Greggory House from \"House\"',
+		'Have you ever put a finger, algea-filled lake-water, or shampoo in there? Yeah, that gets your eyes screaming in pain pretty quick, doesn\'t? Unless you\'re using baby No More Tears shampoo, of course, in which case feel free to lather your eyeballs right on up, no worries <br />-Neil Pasricha',
 		'Ah, my birthday. Normally I\'d put on a festive hat and celebrate the fact that the Earth has circled the Sun one more time; I really didn\'t thing it was going to make it this year, but darn it if it wasn\'t the little planet that could all over again <br />-Greggory House from \"House\"',
 		'Do I get bonus points if I act like I care <br />-Greggory House from \"House\"',
 		'There\'s a reason we don\'t let kids vote, or drink, or work in salt mines. They\'re idiots! Twenty year olds fall in and out of love more often than they change their oil filters. Which they should do more often <br />-Greggory House from \"House\"',
@@ -231,6 +232,7 @@
 		'\"Sort of\" is such a harmless thing to say...sort of. It\'s just a filler. Sort of...it doesn\'t really mean anything. But after certain things, sort of means everything. Like...after \"I love you\"...or \"You\'re going to live\"...or \"It\'s a boy!\" <br />-Demetri Martin',
 		'I sometimes give myself excellent advice. Occasionally, I even listen to it <br />-Jim Butcher',
 		'The table of elements does not contain one of the most powerful elements that make up our world, and that is the element of surprise <br />-Lemony Snicket',
+		'I got my wife a mood ring. It works real good! When she\'s in a good mood it turns blue, but when shes\'s in a bad mood there\'s a red mark across my forehead <br />-Jeff Foxworthy',
 		'They say money talks, but all mine ever says is \"good-bye sucker\" <br />-Jill Shalvis',
 		'The \"Five Second Rule\" has many variations, including the \"Three Second Rule\", the \"Seven Second Rule\", and the extremely handy and versatile \"However Long It Takes Me to Pick Up This Food Rule\" <br />-Neil Pasricha',
 		'A good story should provoke discussion, debate, argument...and the occasional bar fight <br />-J. Michael Straczynski',
@@ -271,8 +273,32 @@
 		'That\'s a headline you never want to see. \"Captain Murderstab has been released on parole\" <br />-Brandon Farmahini from \"Achievement Hunter\"',
 		'Okay, the chickens are having some kind of festival dance around the baby. I thing they\'re gonna sacrifice it to the Chicken Lord <br />-Ryan Haywood from \"Achievement Hunter\"',
 		'The best part of winning is knowing that you all lost <br />-Ryan Haywood from \"Achievement Hunter\"',
-		'It\'s not a stereotype if it\'s always true <br />-Daniel Tosh'
-
+		'It\'s not a stereotype if it\'s always true <br />-Daniel Tosh',
+		'Truth hurts...maybe not as much as jumping on a bicycle with the seat missing...but it hurts <br />-Lt. Frank Drebin from \"The Naked Gun 2 1/2: The Smell of Fear\"',
+		'I don\'t hate you...I just don\'t like that you exist <br />-Gena Showalter',
+		'Ah coffee. The sweet balm by which we shall accomplish today\'s tasks <br />-Holly Black',
+		'If at first you don\'t succeed, then skydiving definitely isn\'t for you <br />-Steven Wright',
+		'There are two ways of arguing with a woman, and neither one works <br />-John Marston from \"Red Dead Redemption\"',
+		'Never be less interesting than your refrigerator magnets <br />-Demetri Martin',
+		'The best method for accelerating a computer is the one that boosts it by 9.8 m/s/s <br />-Unknown',
+		'The question of whether a computer can think is no more interesting than the question of whether a submarine can swim <br />-Edsger W. Dijkstra',
+		'Nerd life is just so much better than regular life <br />-John Green',
+		'Son, when a woman says nothing\'s wrong, it means everything\'s wrong; when a woman says everything\'s wrong, it means everything\'s wrong; and when a woman says that something isn\'t funny, you\'d better not laugh your ass off <br />-Homer Simpson from \"The Simpsons\"',
+		'According to the latest official figures, 43% of all statistics are totally worthless <br />-Ashleigh Brilliant',
+		'The problem with the designated driver program, it\'s not a desirable job, but if you ever get sucked into doing it, have fun with it. At the end of the night, drop them off at the wrong house <br />-Jeff Foxworthy',
+		'You know, somebody actually complimented me on my driving today. They left a little note on the windscreen, it said \"Parking Fine\" <br />-Tommy Cooper',
+		'It\'s strange, isn\'t it? You stand in the middle of a library and go \"aaaaaaaagghhhh\", and everyone just stares at you. But when you do the same thing on an airplane, and everyone joins in <br />-Tommy Cooper',
+		'Life would be a great deal easier if dead things had the decency to remain dead <br />-Doug MacLeod',
+		'Tolerance! The virtue that makes one bite his tongue so that he can tear out his hair <br />-Criss Jami',
+		'It\'s all fun and games until someone loses an eye. The it\'s fun and games can\'t see anymore <br />-James Hetfield',
+		'Life\'s too short not to sleep when you feel like it <br />-Neil Pasricha',
+		'It\'s especially hard to admit that you made a mistake to your parents, because, of course, you know so much more than they do <br />-Sean Covey',
+		'If you have the choice between humble and cocky, go with cocky. There\'s always time to be humble later, once you\'ve been prove horrendously, irrevocably wrong <br />-Kinky Friedman',
+		'It\'s spider season. Every year, right about now, thousands of the godless eight-legged bastards emerge from the bowels of hell (or the garden, whichever\'s nearest) with the sole intention of tormenting humankind <br />-Charlie Brooker',
+		'We are all a little weird. And we like to think that there is always someone weirder. I mean, I am sure some of you are looking at me and thinking, \"Well, at least I am not as weird as you,\" and I am thinking, \"Well, at least I am not as weird as the people in the loony bin," and the people in the loony bin are thinking, \"Well, at least I am an orange\" <br />-Jim Gaffigan',
+		'Slap-stick comedy is really funny, unless you\'re the one getting slapped with the stick <br />-Carroll Bryant',
+		'SOre loser? You bet your fuckin\' ass! What on earth is wrong with being a sore loser? It shows you cared about whatever the contest was in the first place. Fuck losing graciously--that\'s for chumps. And losers, by the way <br />-George Carlin'
+		
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
