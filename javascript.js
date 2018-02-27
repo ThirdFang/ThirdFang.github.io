@@ -348,7 +348,6 @@
 		'Coffee is a way of stealing time that should by rights belong to your older self<br/><b>Terry Pratchett</b>',
 		'You\'re so full of shit, if you ever had an enema you\'d evaporate into thin air<br/><b>Catherine Doyle</b>'
 		
-		
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
