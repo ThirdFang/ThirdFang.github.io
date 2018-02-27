@@ -337,7 +337,14 @@
 		'When in trouble or in doubt, run in circles, scream and shout<br/><b>Cory Doctorow</b>',
 		'I actually like how doctors talk. I like the sound of science. I like how words you don\'t understand explain things you can\'t understand<br/><b>R.J. Palacio</b>',
 		'I have noticed that the people who are late are often so much jollier than the people who have to wait for them<br/><b>Edward Verrall Lucas</b>',
-		'[Are you an idiot, or an idiot?] The first one. I really resent being called the second<br/><b>Melina Marchetta</b>'
+		'[Are you an idiot, or an idiot?] The first one. I really resent being called the second<br/><b>Melina Marchetta</b>',
+		'Sometimes I think I must have a Guardian Idiot. A little invisible spirit just behind my shoulder, looking out for me...only he\'s an imbecile<br/><b>Spider Robinson</b>',
+		'You show me a lazy prick who\'s lying in bed all day, watching TV, only occasionally getting up to piss, and I\'ll shou you a uy who\'s not causing any trouble<br/><b>George Carlin</b>',
+		'I\'m very polite by nature, even the voices in my head let each other finish their sentences<br/><b>Graham Parke</b>',
+		'Most men don\'t seem to get that telling a pissed-off woman to calm down is like throwing gunpowder on a fire<br/><b>Lisa Kleypas</b>',
+		'We all pay for life with death, so everything in between should be free<br/><b>Bill Hicks</b>',
+		'We have just witnessed a classic example of what I like to call \'misdirected rage\'. I believe the technical term is being an ass<br/><b>Natsuki Takaya</b>',
+		'Sometimes I lie awake at night and I ask, \"Why me?\", then a voice answers, \"Nothing personal, your name just happened to come up\"<br/><b>Charles M. Schulz</b>'
 		
 	];
 	
