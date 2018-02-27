@@ -315,7 +315,7 @@
 		'One of the fundamental rights of mankind should be that of wearing as many or as few clothes as one likes inside one\'s own home<br/>-Sachin Kundalkar',
 		'I may not always be right, but when I am, I admit it<br/>-Ken Murray',
 		'Have you guys ever thought about the fact that socks are like the donut holes of underpants?<br/>-Travis McElroy',
-		'The problem is not the problem. The problem is your attitude towards the problem<br/>Captain Jack Sparrow from \"Pirates of the Caribbean\" series',
+		'The problem is not the problem. The problem is your attitude towards the problem<br/>-Captain Jack Sparrow from \"Pirates of the Caribbean\" series',
 		'One can hardly do anything productive when one knows there is cake in the fridge<br/>-Joyce Rachelle',
 		'Often we have to remind our minds that the job of asshole is already taken<br/>-Scott Stabile',
 		'I try very hard to be annoying! Don\'t insult my ability to annoy!<br/>-Rick Riordan',
