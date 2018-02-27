@@ -330,7 +330,14 @@
 		'Plans are invitation to disappointment<br/><b>Derek Landy</b>',
 		'Anything that doesn\'t take years of your life and drive you to suicide hardly seems worth doing<br/><b>Cormac McCarthy</b>',
 		'It\'s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper<br/><b>Jerry Seinfield</b>',
-		'I feel a disturbance. If\'s as if an infinite number of people are laughing and pitying me to the best of their abilities at once...and that many more are screaming at me to run very...VERY far away. As time passes, the voices become louder and louder and more urgent...and apparently more vulgar as well...HEY I HEARD THAT YOU ASSHOLE!<br/><b>Ghost Oogakari from \"Yet Again With a Little Extra Help\"</b>'
+		'I feel a disturbance. If\'s as if an infinite number of people are laughing and pitying me to the best of their abilities at once...and that many more are screaming at me to run very...VERY far away. As time passes, the voices become louder and louder and more urgent...and apparently more vulgar as well...HEY I HEARD THAT YOU ASSHOLE!<br/><b>Ghost Oogakari from \"Yet Again With a Little Extra Help\"</b>',
+		'Why should any guy want to be only friends with a girl? It\'s like agreeing to be near a chocolate cake and never eat it. It\'s like sitting in a racing car but never driving it<br/><b>Chetan Bhagat</b>',
+		'Progress just means bad things happen faster<br/><b>Terry Pratchett</b>',
+		'I need to look like an idiot at least twice a day to keep myself humble<br/><b>Janet Evanovich</b>',
+		'When in trouble or in doubt, run in circles, scream and shout<br/><b>Cory Doctorow</b>',
+		'I actually like how doctors talk. I like the sound of science. I like how words you don\'t understand explain things you can\'t understand<br/><b>R.J. Palacio</b>',
+		'I have noticed that the people who are late are often so much jollier than the people who have to wait for them<br/><b>Edward Verrall Lucas</b>',
+		'[Are you an idiot, or an idiot?] The first one. I really resent being called the second<br/><b>Melina Marchetta</b>'
 		
 	];
 	
