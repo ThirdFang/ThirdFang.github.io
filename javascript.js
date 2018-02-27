@@ -128,7 +128,7 @@
 		'Society teaches us that having feelings and crying is bad and wrong. Well, that\'s baloney, because grief isn\'t wrong. There\'s such a thing as good grief. Just ask Charlie Brown<br/>-Michael Scott from \"The Office\"',
 		'Sometimes I feel like everyone I work with is an idiot. And by sometimes, I mean all times. All the time. Every of the time<br/>-Kevin Malone from \"The Office\"',
 		'I never lie. I believe everything I say, so it\'s not a lie<br/>-Mark Wahlberg',
-		'The message \"Bad command or file name\" is as informative as \"If you don\'t know why I\'m mad at you, they I\'m certainly not going to tell you<br/>-Unknown',
+		'The message \"Bad command or file name\" is as informative as \"If you don\'t know why I\'m mad at you, then I\'m certainly not going to tell you<br/>-Unknown',
 		'\"Meow\" means \"woof\" in cat<br/>-George Carlin',
 		'I went to a bookstore and asked the saleswoman, "Where\'s the self-help section?\" She said if she told me, it would defeat the purpose<br/>-George Carlin',
 		'[There\'s no \"I\" in team, Grif] Oh, yeah? Well, there\'s no \"U\", either. So I guess if \"I\'m\" not on the team and \"you\'re\" not on the team, nobody\'s on the goddamned team! The team sucks!<br/>-Grif from \"Red vs Blue\"',
