@@ -344,7 +344,10 @@
 		'Most men don\'t seem to get that telling a pissed-off woman to calm down is like throwing gunpowder on a fire<br/><b>Lisa Kleypas</b>',
 		'We all pay for life with death, so everything in between should be free<br/><b>Bill Hicks</b>',
 		'We have just witnessed a classic example of what I like to call \'misdirected rage\'. I believe the technical term is being an ass<br/><b>Natsuki Takaya</b>',
-		'Sometimes I lie awake at night and I ask, \"Why me?\", then a voice answers, \"Nothing personal, your name just happened to come up\"<br/><b>Charles M. Schulz</b>'
+		'Sometimes I lie awake at night and I ask, \"Why me?\", then a voice answers, \"Nothing personal, your name just happened to come up\"<br/><b>Charles M. Schulz</b>',
+		'Coffee is a way of stealing time that should by rights belong to your older self<br/><b>Terry Pratchett</b>',
+		'You\'re so full of shit, if you ever had an enema you\'d evaporate into thin air<br/><b>Catherine Doyle</b>'
+		
 		
 	];
 	
