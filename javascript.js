@@ -179,6 +179,7 @@
 		'If your kid needs a role model and you ain\'t it, you\'re both fucked<br/><b>George Carlin</b>',
 		'Gravity is a contributing factor in nearly 73 percent of all accidents involving falling objects<br/><b>Dave Barry</b>',
 		'Shin: a device for finding furniture in the dark<br/><b>Steven Wright</b>',
+		'Buying a used rental car is kind o flike going to a house of ill repute looking for a wife. Anything that\'s been driven that hard by that many people, you really don\'t want to put your key in it<br/><b>Jeff Foxworthy</b>',
 		'No man\'s life, liberty, or property are safe while the legislature is in session<br/><b>Gideo J. Tucker</b>',
 		'Life is half delicious yogurt, half crap, and your job is to keep the plastic spoon in the yogurt<br/><b>Scott Adams</b>',
 		'I\'m no cactus expert, but I know a prick when I see one<br/><b>Mark A. Cooper</b>',
@@ -360,7 +361,13 @@
 		'A fit of irony? I\'m going to beat the shit out of him with a medkit<br><b>Quebec to SovietWomble</b>',
 		'The only \'B\' word you should call a woman is \'beautiful\'...cause bitches like it when you call them beautiful<br><b>Cyanide</b>',
 		'I live on shameless flattery...and vodka...but the two usually go hand in hand<br/><b>Vicktor Alexander</b>',
-		'Ever since the robot was first invented, there have been people who swear up and down that that this marks the first step towards the fall of man. To be fair, their arguments are backed with scientific fact taken from documentary films such as <i>The Terminator</i>, <i>The Matrix</i>, and <i>RoboCop</i><br/><b>Wes Locher</b>'
+		'Ever since the robot was first invented, there have been people who swear up and down that that this marks the first step towards the fall of man. To be fair, their arguments are backed with scientific fact taken from documentary films such as <i>The Terminator</i>, <i>The Matrix</i>, and <i>RoboCop</i><br/><b>Wes Locher</b>',
+		'On life\'s list of fun things to do, visiting my in-laws comes in somewhere below sitting in a tub full of scissors<br/><b>Jeff Foxworthy</b>',
+		'Don\'t open the door to strangers. Unless they\'re selling something. Then open the door and see if I\'d like it. If I\'d like it, buy it for me. but nothing cheap. I have standards. Nothing too expensive, ethier. My standards aren\'t that high<br/><b>Derek Landy</b>',
+		'I had a dream about you last night...You replaced all the people in your life with kittens. It felt more like a prediction of the future<br/><b>Nicole McKay</b>',
+		'I\'m addicted to placebos. I could quit, but it wouldn\'t matter<br/<b>Steven Wright</b>',
+		'Wonder Woman the movie, Gal Gadot\'s playing her<br/>Sounds like some sort of Godzilla bad guy, or something<br/>Gal Gadot is not that common of a name<br/>Yeah, nor is \"Mothra\"<br/><b>SovietWomble, Cyanide, and Poro</b>',
+		'A red eight-sided sight always means:<br/>A) Stop<br/>B) Go<br/>C) Dange! Red octogons ahead!<br/><b>Cuthbert Soup</b>'
 		
 	];
 	
