@@ -248,7 +248,7 @@
 		'Whatever you do, always give 100%. Unless you\'re donating blood<br/><b>Bill Murray</b>',
 		'Just beat my record for most consecutive days without dying<br/><b>Bill Murray</b>',
 		'People have an annoying habit of remembering things they shouldn\'t<br/><b>Christopher Paolini</b>',
-		'half of seeming clever is keeping you mouth shut at the right times<br/><b>Patrick Rothfuss</b>',
+		'Half of seeming clever is keeping you mouth shut at the right times<br/><b>Patrick Rothfuss</b>',
 		'Employee of the month is a good example of how somebody can be both a winner and a loser at the same time<br/><b>Demetri Martin</b>',
 		'If it doesn\'t work, at least it will be an interesting train wreck<br/><b>Craig Ferguson</b>',
 		'I\'m not crazy, but I suspect the voices in my head are<br/><b>Kelli Sullivan</b>',
