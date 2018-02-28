@@ -343,6 +343,7 @@
 		'You show me a lazy prick who\'s lying in bed all day, watching TV, only occasionally getting up to piss, and I\'ll shou you a uy who\'s not causing any trouble<br/><b>George Carlin</b>',
 		'I\'m very polite by nature, even the voices in my head let each other finish their sentences<br/><b>Graham Parke</b>',
 		'Most men don\'t seem to get that telling a pissed-off woman to calm down is like throwing gunpowder on a fire<br/><b>Lisa Kleypas</b>',
+		'If you work and study hard, and you fuck up, that\'s okay. If you fuck up and fuck up, then you\'re a fuckup<br/><b>Justin Halpern</b>',
 		'We all pay for life with death, so everything in between should be free<br/><b>Bill Hicks</b>',
 		'We have just witnessed a classic example of what I like to call \'misdirected rage\'. I believe the technical term is being an ass<br/><b>Natsuki Takaya</b>',
 		'Sometimes I lie awake at night and I ask, \"Why me?\", then a voice answers, \"Nothing personal, your name just happened to come up\"<br/><b>Charles M. Schulz</b>',
@@ -377,7 +378,10 @@
 		'We\'ve all got weaknesses. Me, for instance. I\'m tragically funny and good-looking<br/><b>Rick Riordan</b>',
 		'He\'s turned his life around. He used to be depressed and miserable. Now he\'s miserable and depressed<br/><b>David Frost</b>',
 		'No such word as \'can\'t\'. No such word as \'babagoozle\' neither<br/><b>Charlie Higson</b>',
-		'The chance of the bread falling with the buttered side down is directly proportional to the cost of the carpet<br/><b>Murphy\'s Law</b>'
+		'The chance of the bread falling with the buttered side down is directly proportional to the cost of the carpet<br/><b>Murphy\'s Law</b>',
+		'No one can be right all the time, but it helps to be right most of the time<br/><b>Robert Half</b>',
+		'IF I have any beliefs about immortality, it is that certain dogs I have known will go to heaven, and very, very few persons<br/><b>James Thurber</b>',
+		'You\'re like a tornado of bullshit right now. We\'ll talk again when your bullshit dies out over someone else\'s house<br/><b>Justin Halpern</b>'
 		
 	];
 	
