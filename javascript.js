@@ -229,7 +229,7 @@
 		'Roses are red, violets are blue, I have five fingers, the middle one is for you<br/><b>Gena Showalter</b>',
 		'If it weren\'t for physics and law enforcement, I\'d be unstoppable<br/><b>Darynda Jones</b>',
 		'Just relax and breathe through your ass<br/><b>Lewis Black</b>',
-		'My common sense is tingling<br/><b>Deadpool</b>',
+		'Shhhh...My common sense is tingling<br/><b>Deadpool</b>',
 		'Paperwork wouldn\'t be so bad if it weren\'t for all the paper. And the work<br/><b>Darynda Jones</b>',
 		'\"Sort of\" is such a harmless thing to say...sort of. It\'s just a filler. Sort of...it doesn\'t really mean anything. But after certain things, sort of means everything. Like...after \"I love you\"...or \"You\'re going to live\"...or \"It\'s a boy!\"<br/><b>Demetri Martin</b>',
 		'I sometimes give myself excellent advice. Occasionally, I even listen to it<br/><b>Jim Butcher</b>',
@@ -346,7 +346,21 @@
 		'We have just witnessed a classic example of what I like to call \'misdirected rage\'. I believe the technical term is being an ass<br/><b>Natsuki Takaya</b>',
 		'Sometimes I lie awake at night and I ask, \"Why me?\", then a voice answers, \"Nothing personal, your name just happened to come up\"<br/><b>Charles M. Schulz</b>',
 		'Coffee is a way of stealing time that should by rights belong to your older self<br/><b>Terry Pratchett</b>',
-		'You\'re so full of shit, if you ever had an enema you\'d evaporate into thin air<br/><b>Catherine Doyle</b>'
+		'You\'re so full of shit, if you ever had an enema you\'d evaporate into thin air<br/><b>Catherine Doyle</b>',
+		'I Just hate stupid people. They should have to wear signs that say \"I\'m Stupid\". That way you wouldn\'t rely on them, and you wouldn\'t ask them for nothing<br/><b>Bill Engvall</b>',
+		'A man should be taller, older, heavier, uglier, and hoarser than his wife<br/><b>E.W. Howe</b>',
+		'If you sleep upside down, do you dream upside down?<br/><b>Gavin Free</b>',
+		'Cats are smarter than dogs. You can\'t get eight cats to pull a sled through snow<br/><b>Jeff Valdez</b>',
+		'The brain can be a dangerous thing. Even more so if you haven\'t got one<br/><b>Dave Courtney</b>',
+		'If my name was Richard, I\'d go by Richard or Rich...not Dick. Hell, I\'d even settle for being called Chard<br><b>Simone Elkeles</b>',
+		'Life is like Tetris: if it doesn\'t fit, just flip it over<br/><b>Sabine Hein</b>',
+		'What\'s the most insignificant thing I could possibly buy for 20 pence?<br/>Your dignity<br><b>SovietWomble and Cyanide</b>',
+		'Y\'know, camping outside someone\'s window just to watch them sleep used to be considered romantic--but today it\'s called \"stalking\" and generally considered trespasse--though the term \"stalking\" has a certain Byronic falvour to it<br/><b>Deadpool</b>',
+		'You\'ve embarrassed yourself. You\'ve embarrassed your family. But most importantly...you\'ve somewhat inconvenienced me<br/><b>Spuckuk to SovietWomble</b>',
+		'A fit of irony? I\'m going to beat the shit out of him with a medkit<br><b>Quebec to SovietWomble</b>',
+		'The only \'B\' word you should call a woman is \'beautiful\'...cause bitches like it when you call them beautiful<br><b>Cyanide</b>',
+		'I live on shameless flattery...and vodka...but the two usually go hand in hand<br/><b>Vicktor Alexander</b>',
+		'Ever since the robot was first invented, there have been people who swear up and down that that this marks the first step towards the fall of man. To be fair, their arguments are backed with scientific fact taken from documentary films such as <i>The Terminator</i>, <i>The Matrix</i>, and <i>RoboCop</i><br/><b>Wes Locher</b>'
 		
 	];
 	
