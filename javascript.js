@@ -367,7 +367,17 @@
 		'I had a dream about you last night...You replaced all the people in your life with kittens. It felt more like a prediction of the future<br/><b>Nicole McKay</b>',
 		'I\'m addicted to placebos. I could quit, but it wouldn\'t matter<br/<b>Steven Wright</b>',
 		'Wonder Woman the movie, Gal Gadot\'s playing her<br/>Sounds like some sort of Godzilla bad guy, or something<br/>Gal Gadot is not that common of a name<br/>Yeah, nor is \"Mothra\"<br/><b>SovietWomble, Cyanide, and Poro</b>',
-		'A red eight-sided sight always means:<br/>A) Stop<br/>B) Go<br/>C) Dange! Red octogons ahead!<br/><b>Cuthbert Soup</b>'
+		'A red eight-sided sight always means:<br/>A) Stop<br/>B) Go<br/>C) Dange! Red octogons ahead!<br/><b>Cuthbert Soup</b>',
+		'I don\'t even have a high school diploma. I\'m smart, but you can\'t prove it on paper. I do have a GED, and if you don\'t know what GED stands for...you probably got one, too<br/><b>Ron White</b>',
+		'Oh, I\'m good. Seriously, after all these years, you\'d think I would stop amazing myself. But here I am, still doing it<br/><b>James Dashner</b>',
+		'I used to work at the unemployment office. I hated it, because when they fired me, I had to show up to work anyway<br/><b>Wallace Wang</b>',
+		'Bike lane: the section of the road that accommodates wide loads and has speed bumps to protect drunk drivers<br/><b>Bauvard</b>',
+		'Can we go back to using Facebook for what it was originally for - looking up exes to see how fat they got?<br/><b>Bill Maher</b>',
+		'It\'s sick and twisted and violent. Other than that, it is totally G rated<br/><b>Elizabeth Cruickshank</b>',
+		'We\'ve all got weaknesses. Me, for instance. I\'m tragically funny and good-looking<br/><b>Rick Riordan</b>',
+		'He\'s turned his life around. He used to be depressed and miserable. Now he\'s miserable and depressed<br/><b>David Frost</b>',
+		'No such word as \'can\'t\'. No such word as \'babagoozle\' neither<br/><b>Charlie Higson</b>',
+		'The chance of the bread falling with the buttered side down is directly proportional to the cost of the carpet<br/><b>Murphy\'s Law</b>'
 		
 	];
 	
