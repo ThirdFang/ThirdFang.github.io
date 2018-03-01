@@ -11,6 +11,7 @@
 		'I\'m sorry, if you were right, I\'d agree with you<br/><b>Robin Williams</b>',
 		'There\'s a very fine line between not listening and not caring. I like to think I walk that line every day of my life<br/><b>Church from \"Red vs Blue\"</b>',
 		'Procrastination is the art of keeping up with yesterday<br/><b>Don Marquis</b>',
+		'Show me somebody who is always smiling, always cheerful, always optimistic, and I will show you somebody who hasn\'t the faintest idea what the heck is really going on<br/><b>Mike Royko</b>',
 		'I love deadlines. I like the whooshing sound they make as they fly by<br/><b>Douglas Adams</b>',
 		'Weather forecast for tonight: Dark. Continued dark overnight, with widely scattered light by morning<br/><b>George Carlin</b>',
 		'Isn\'t a bit unnerving that doctors call what they do \"Practice\"?<br/><b>George Carlin</b>',
@@ -34,12 +35,14 @@
 		'A lot of people are afraid of heights. Not me, I\'m afraid of widths<br/><b>Steven Wright</b>',
 		'By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day<br/><b>Robert Frost</b>',
 		'I\'d rather have 1% of the effort of 100 men than 100% of my own effort<br/><b>J. Paul Getty</b>',
+		'
 		'Recession is when a neighbor loses his job. Depression is when you lose yours<br/><b>Ronald Reagan</b>',
 		'It\'s true that had work never killed anybody. But I figure, why take the chance?<br/><b>Ronald Reagan</b>',
 		'I have not failed. I\'ve just found 10,000 ways that won\'t work<br/><b>Thomas A. Edison</b>',
 		'I can resist everything except temptation<br/><b>Oscar Wilde</b>',
 		'It\'s always darkest before the dawn. So if you\'re going to steal your neighbor\'s newspaper, that\'s the time to do it<br/><b>Navjot Singh Sidhu</b>',
 		'Always borrow money from a pessimist. He won\'t expect it back<br/><b>Oscar Wilde</b>',
+		'I am so tired, I can hardly type these worfs<br/><b>Lemony Snicket</b>',
 		'May the forces of evil become confused on the way to your house<br/><b>George Carlin</b>',
 		'It does not matter whether you win or lose, what matters is whether I win or lose!<br/><b>Steven Weinberg</b>',
 		'Lead me not into temptation; I can find the way myself<br/><b>Rita Mae Brown</b>',
@@ -160,6 +163,7 @@
 		'My opinions may have changed, but not the fact that I\'m right<br/><b>Ashleigh Brilliant</b>',
 		'Honesty may be the best policy, but it\'s important to remember that apparently, by elimination, dishonesty is the second-best policy<br/><b>George Carlin</b>',
 		'I\'m realizing that some of my greatest (or at least most determined) genius lies in my ability to procrastinate<br/><b>Scott Stabile</b>',
+		'As I am sure you know, when people say \"It\'s my pleasure\", they usually mean something along the lines of, \"There\'s nothing on Earth I would rather do less\"<br/><b>Lemony Snicket</b>',
 		'\"If you want to shoot the general, first shoot the horse\"<br/>\"If you wanna shoot the general, then you should just SHOOT THE GENERAL!\"<br/><b>Ling Yao and Edward Elric from \"Fullmetal Alchemist: Brotherhood\"</b>',
 		'Every year, many, many stupid people graduate from college. And if they can do it, so can you<br/><b>John Green</b>',
 		'The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised<br/><b>George F. Will</b>',
@@ -259,7 +263,7 @@
 		'If a mute kid swears, should his mother wash his hands with soap?<br/><b>Steven Wright</b>',
 		'Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac<br/><b>George Carlin</b>',
 		'I\'m not always a smartass. Sometimes I\'m just an ass',
-		'Patience - A minor form of despair, disguised as a virtue<br/><b>Ambrose Bierce</b>',
+		'<b>Patience, n</b>: A minor form of despair, disguised as a virtue<br/><b>Ambrose Bierce</b>',
 		'Being human totally sucks most of the time. Video games are the only thing that make life bearable<br/><b>Ernest Cline</b>',
 		'Could you put that in a memo and entitle it \"Shit I already know\"<br/><b>Sarge from \"Red vs Blue\"</b>',
 		'All my life I\'ve had girls tell me, \"Not if you were the last man on Earth\". Well, that may be true, but let\'s see what happens when I\'m the last man on Earth with a sweet ass, pimped out ride, bitch!<br/><b>Tucker from \"Red vs Blue\"</b>',
@@ -329,6 +333,8 @@
 		'So if animals aren\'t our friends, then what are they? The answer can be summed between two buns<br/><b>Stephen Colbert</b>',
 		'I hate patience. Slows everything down<br/><b>J.D. Robb</b>',
 		'Plans are invitation to disappointment<br/><b>Derek Landy</b>',
+		'If you are allergic to a thing, it is best not to put that thing in your mouth, particularly if the thing is cats<br/><b>Lemony Snicket</b>',
+		'
 		'Anything that doesn\'t take years of your life and drive you to suicide hardly seems worth doing<br/><b>Cormac McCarthy</b>',
 		'It\'s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper<br/><b>Jerry Seinfield</b>',
 		'I feel a disturbance. If\'s as if an infinite number of people are laughing and pitying me to the best of their abilities at once...and that many more are screaming at me to run very...VERY far away. As time passes, the voices become louder and louder and more urgent...and apparently more vulgar as well...HEY I HEARD THAT YOU ASSHOLE!<br/><b>Ghost Oogakari from \"Yet Again With a Little Extra Help\"</b>',
@@ -381,9 +387,26 @@
 		'The chance of the bread falling with the buttered side down is directly proportional to the cost of the carpet<br/><b>Murphy\'s Law</b>',
 		'No one can be right all the time, but it helps to be right most of the time<br/><b>Robert Half</b>',
 		'If I have any beliefs about immortality, it is that certain dogs I have known will go to heaven, and very, very few persons<br/><b>James Thurber</b>',
-		'You\'re like a tornado of bullshit right now. We\'ll talk again when your bullshit dies out over someone else\'s house<br/><b>Justin Halpern</b>'
+		'You\'re like a tornado of bullshit right now. We\'ll talk again when your bullshit dies out over someone else\'s house<br/><b>Justin Halpern</b>',
+		'Have you ever noticed how \'What the hell\' is always the right decision to make?<br/><b>Terry Johnson</b>',
+		'Deadlines just aren\'t real to me until I\'m staring one in the face<br/><b>Rick Riordan</b>',
+		'What would men be without women? Scarce, sir...mighty scarce<br/><b>Mark Twain</b>',
+		'Don\'t think of it as dying. Just think of it as leaving early to avoid the rush<br/><b>Terry Pratchett</b>',
+		'Cats are intended to teach us that not everything in nature has a purpose<br/><b>Garrison Keillor</b>',
+		'There are two types of people in this world. People who hate clowns...and clowns<br/><b>D.J. MacHale</b>',
+		'In wine there is wisdom, in beer there is freedom, in water there is bacteria<br/><b>Benjamin Franklin</b>',
+		'<b>Quotation, n</b>: The act of repeating erroneously the words of another<br/><b>Ambrose Bierce<b/>',
+		'My doctor told me to stop having intimate dinners for four. Unless there are three other people<br/><b>Orson Welles</b>',
+		'I believe that sex is one of the most beautiful, natural, wholesome things that money can buy<br/><b>Steve Martin</b>',
+		'FEAR stands for \'Fuck Everything And Run\'<br/><b>Stephen King</b>',
+		'Don\'t look at this as censorship. Let\'s view this as selective viewership<br/><b>Cyanide</b>',
+		'Siblings that say they never fight are most definitely hiding something<br/><b>Lemony Snicket</b>',
+		'Here\'s all you have to know about men and women: women are crazy, men are stupid. And the main reason women are crazy is that men are stupid<br/><b>George Carlin</b>',
+		'From now on, I\'m not doing anything I don\'t want to do! The world owes me happiness, fulfillment and success...I\'m just here to cash in<br/><b>Bill Watterson</b>',
+		'You say you\'re sick, huh? Well, it looks like you\'ve come down with a case of bullshit<br/><b>Justin Halpern</b>',
+		'I\'m sorry, but if your brother doesn\'t want you to play with his shit, then you can\'t play with it. It\'s his shit. If he wants to be an asshole and not share, then that\'s his right. You always have the right to be an asshole--you just shouldn\'t use that right very often<br/><b>Justin Halpern</b>',
+		'Can you define \"plan\" as \"a loose sequence of manifestly inadequate observations and conjectures, held together by panic, indecision, and ignorance\"? If so, it was a very good plan<br/><b>Jonathan Stroud</b>'
 
-		
 	];
 	
 	var usedQuotes = []; // empty array for used quotes
