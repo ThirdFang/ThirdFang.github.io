@@ -306,7 +306,7 @@
 		'Slap-stick comedy is really funny, unless you\'re the one getting slapped with the stick<br/><b>Carroll Bryant</b>',
 		'Sore loser? You bet your fuckin\' ass! What on earth is wrong with being a sore loser? It shows you cared about whatever the contest was in the first place. Fuck losing graciously--that\'s for chumps. And losers, by the way<br/><b>George Carlin</b>',
 		'I had a dream about you last night...shortly after I woke up screaming in terror<br/><b>Amy Sommers</b>',
-		'Fun war fact: there\'s are more crashed planes in the bottom of the ocean than there are crashed submarines in the sky<br/><b>Jeremy Dooley, \"On The Spot\"</b>',
+		'Fun war fact: there are more crashed planes in the bottom of the ocean than there are crashed submarines in the sky<br/><b>Jeremy Dooley, \"On The Spot\"</b>',
 		'Why does everyone have to pretend to be stupid and not know long words?<br/><b>Martin Freeman</b>',
 		'If you were going to shoot a mime, would you use a silencer?<br/><b>Steven Wright</b>',
 		'Whatever my ancestors did to you, none of them consulted me<br/><b>Tad Williams</b>',
